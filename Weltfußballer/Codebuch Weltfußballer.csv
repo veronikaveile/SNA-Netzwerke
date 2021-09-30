@@ -1,0 +1,36 @@
+CODEBUCH,
+"Im Codebuch definieren Sie, wie und nach welchen Kriterien erfasst werden.",
+Achtung: das Codebuch wird immer als eigene Datei in Github gesetzt. Beispiel siehe hier.,
+Wert,Kommentar
+edgelist,Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).
+from,"definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort"
+to ,"definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc. "
+year,"definiert das Jahr, in dem der jeweilige Spieler/Trainer bei dem Verein gespielt/trainiert hat. "
+relationship,"definiert die Art der Beziehung: 1=Spieler, 2=Trainer"
+decade,"definiert, in welchem Jahrzehnt der Spieler/Trainer aktiv war."
+nodelist,Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.
+id,"eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.  "
+name,Name oder Bezeichnung des Knotens (der Spieler/des Vereins).
+type,"definiert, ob Spieler oder Verein: 1=Spieler, 2=Verein, 3=Nationalmannschaft"
+nationality,definiert die Nationalität der einzelnen Spieler/Vereine. 
+birth,"definiert, wann die einzelnen Spieler geboren sind (in Jahreszahlen)."
+career,"definiert, ab wann die einzelnen Spieler beim ersten Verein gespielt haben (Herren, in Jahreszahlen)."
+start age,"definiert, ab welchem Alter die einzelnen Spieler ihre Profi-Karriere gestartet haben: 1=U18, 2=18-20, 3=Ü20"
+position,"definiert, welche Position die einzelnen Spieler am hauptsächlich besetzt haben: 1=Offensiv, 2=Defensiv, 3=Torwart"
+,
+NA,"definiert fehlende Werte, bei der Datenerhebung das Feld einfach weglassen."
+,
+Bearbeitungshinweise,
+"Achten Sie bitte auf die Kommentare in den Spalten. Diese erklären genauer, welche Daten erfasst werden. ",
+"Sie sehen die Kommentare, wenn Sie auf die entsprechende Spalte gehen. ",
+"Skizzieren Sie zunächst Ihr Netzwerk bzw. die Daten, die für Sie relevant sind. ",
+Welche Informationen wollen Sie erheben? Wie müssen diese erfasst sein?,
+"Legen Sie bitte im Codebuch möglichst genau fest, wie die Daten erhoben werden (Codebuch)",
+"Bitte verwenden Sie keine Sonderzeichen in der Erfassung, dazu gehören Satzzeichen, Umlaute, etc.",
+"Verpflichten Sie alle Teammitglieder darauf, das Codebuch zwingend einzuhalten. ",
+Wer seine Daten nicht sauber erstellt muss diese nachbereinigen.,
+"Dokumentieren Sie jeden Schritt Ihrer Datenerfassung mit, um dies zu rekonstruieren.",
+Nutzen Sie das Skript zur Datenbereinigung auf dem letzten Reiter!,
+"Beispiel für die Dokumentation von Codebuch, Edge- und Nodelist",
+https://github.com/hdm-crpr/226305/tree/master/data/crpr2,
+Vergeben Sie stets eindeutige Spaltenbeschriftungen. Am besten immer nur ein Begriff ohne Sonderzeichen etc.,
