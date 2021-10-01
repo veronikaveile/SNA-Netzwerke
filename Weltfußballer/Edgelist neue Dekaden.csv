@@ -1,0 +1,2202 @@
+from,to,year,decade,relationship
+Finney,England,1946,1940,1
+Finney,England,1947,1940,1
+Finney,England,1948,1940,1
+Finney,England,1949,1940,1
+Finney,Preston North End,1946,1940,1
+Finney,Preston North End,1947,1940,1
+Finney,Preston North End,1948,1940,1
+Finney,Preston North End,1949,1940,1
+Edwards,England,1955,1950,1
+Edwards,England,1956,1950,1
+Edwards,England,1957,1950,1
+Edwards,England,1958,1950,1
+Edwards,Manchester United,1953,1950,1
+Edwards,Manchester United,1954,1950,1
+Edwards,Manchester United,1955,1950,1
+Edwards,Manchester United,1956,1950,1
+Edwards,Manchester United,1957,1950,1
+Edwards,Manchester United,1958,1950,1
+Finney,England,1959,1950,1
+Finney,England,1960,1950,1
+Finney,England,1961,1950,1
+Finney,England,1962,1950,1
+Finney,Preston North End,1963,1950,1
+Finney,Preston North End,1964,1950,1
+Finney,Preston North End,1965,1950,1
+Finney,Preston North End,1966,1950,1
+Finney,Preston North End,1967,1950,1
+Finney,Preston North End,1968,1950,1
+Finney,Preston North End,1969,1950,1
+Finney,Preston North End,1970,1950,1
+Finney,Preston North End,1971,1950,1
+Finney,Preston North End,1972,1950,1
+Fontaine,Frankreich,1953,1950,1
+Fontaine,Frankreich,1954,1950,1
+Fontaine,Frankreich,1955,1950,1
+Fontaine,Frankreich,1956,1950,1
+Fontaine,Frankreich,1957,1950,1
+Fontaine,Frankreich,1958,1950,1
+Fontaine,Frankreich,1959,1950,1
+Fontaine,OGC Nizza,1953,1950,1
+Fontaine,OGC Nizza,1954,1950,1
+Fontaine,OGC Nizza,1955,1950,1
+Fontaine,OGC Nizza,1956,1950,1
+Fontaine,Stade Reims,1956,1950,1
+Fontaine,Stade Reims,1957,1950,1
+Fontaine,Stade Reims,1958,1950,1
+Fontaine,Stade Reims,1959,1950,1
+Fontaine,USM Casablanca,1950,1950,1
+Fontaine,USM Casablanca,1951,1950,1
+Fontaine,USM Casablanca,1952,1950,1
+Fontaine,USM Casablanca,1953,1950,1
+Finney,FC Distillery,1963,1960,1
+Finney,Preston North End,1964,1960,1
+Fontaine,Bagneres de Luchon SP,1968,1960,2
+Fontaine,Bagneres de Luchon SP,1969,1960,2
+Fontaine,Frankreich,1960,1960,1
+Fontaine,Frankreich,1967,1960,2
+Fontaine,Stade Reims,1968,1960,1
+Fontaine,Stade Reims,1969,1960,1
+Fontaine,Stade Reims,1970,1960,1
+Zoff,AC Mantova,1963,1960,1
+Zoff,AC Mantova,1964,1960,1
+Zoff,AC Mantova,1965,1960,1
+Zoff,AC Mantova,1966,1960,1
+Zoff,AC Mantova,1967,1960,1
+Zoff,Italien,1968,1960,1
+Zoff,Italien,1969,1960,1
+Zoff,Manchester United,1961,1960,1
+Zoff,Manchester United,1962,1960,1
+Zoff,Manchester United,1963,1960,1
+Zoff,SSC Neapel,1967,1960,1
+Zoff,SSC Neapel,1968,1960,1
+Zoff,SSC Neapel,1969,1960,1
+Fontaine,FC Toulouse,1978,1970,2
+Fontaine,FC Toulouse,1979,1970,2
+Fontaine,Marokko,1979,1970,2
+Fontaine,Paris Saint Germain,1973,1970,2
+Fontaine,Paris Saint Germain,1974,1970,2
+Fontaine,Paris Saint Germain,1975,1970,2
+Fontaine,Paris Saint Germain,1976,1970,2
+Rossi,Como Calcio,1975,1970,1
+Rossi,Como Calcio,1976,1970,1
+Rossi,Italien,1977,1970,1
+Rossi,Italien,1978,1970,1
+Rossi,Italien,1979,1970,1
+Rossi,Juventus Turin,1973,1970,1
+Rossi,Juventus Turin,1974,1970,1
+Rossi,Juventus Turin,1975,1970,1
+Rossi,Juventus Turin,1976,1970,1
+Rossi,Juventus Turin,1977,1970,1
+Rossi,Juventus Turin,1978,1970,1
+Rossi,LR Vicenza,1976,1970,1
+Rossi,LR Vicenza,1977,1970,1
+Rossi,LR Vicenza,1978,1970,1
+Zoff,Italien,1979,1970,1
+Zoff,Italien,1980,1970,1
+Zoff,Italien,1981,1970,1
+Zoff,Italien,1982,1970,1
+Zoff,Italien,1983,1970,1
+Zoff,Italien,1984,1970,1
+Zoff,Italien,1985,1970,1
+Zoff,Italien,1986,1970,1
+Zoff,Italien,1987,1970,1
+Zoff,Italien,1988,1970,1
+Zoff,Juventus Turin,1972,1970,1
+Zoff,Juventus Turin,1973,1970,1
+Zoff,Juventus Turin,1974,1970,1
+Zoff,Juventus Turin,1975,1970,1
+Zoff,Juventus Turin,1976,1970,1
+Zoff,Juventus Turin,1977,1970,1
+Zoff,Juventus Turin,1978,1970,1
+Zoff,Juventus Turin,1979,1970,1
+Zoff,SSC Neapel,1970,1970,1
+Zoff,SSC Neapel,1971,1970,1
+Zoff,SSC Neapel,1972,1970,1
+Fontaine,Marokko,1980,1980,2
+Fontaine,Marokko,1981,1980,2
+Rossi,AC Mailand,1985,1980,1
+Rossi,AC Mailand,1986,1980,1
+Rossi,Hellas Verona,1986,1980,1
+Rossi,Hellas Verona,1987,1980,1
+Rossi,Italien,1980,1980,1
+Rossi,Italien,1981,1980,1
+Rossi,Italien,1982,1980,1
+Rossi,Italien,1983,1980,1
+Rossi,Italien,1984,1980,1
+Rossi,Italien,1985,1980,1
+Rossi,Italien,1986,1980,1
+Rossi,Juventus Turin,1981,1980,1
+Rossi,Juventus Turin,1982,1980,1
+Rossi,Juventus Turin,1983,1980,1
+Rossi,Juventus Turin,1984,1980,1
+Rossi,Juventus Turin,1985,1980,1
+Rossi,LR Vicenza,1980,1980,1
+Rossi,Perugia Calcio,1979,1980,1
+Rossi,Perugia Calcio,1980,1980,1
+Schmeichel,Brondby IF,1987,1980,1
+Schmeichel,Brondby IF,1988,1980,1
+Schmeichel,Brondby IF,1989,1980,1
+Schmeichel,Danemark,1987,1980,1
+Schmeichel,Danemark,1988,1980,1
+Schmeichel,Danemark,1989,1980,1
+Schmeichel,Gladsaxe Hero,1980,1980,1
+Schmeichel,Gladsaxe Hero,1981,1980,1
+Schmeichel,Gladsaxe Hero,1982,1980,1
+Schmeichel,Gladsaxe Hero,1983,1980,1
+Schmeichel,Gladsaxe Hero,1984,1980,1
+Schmeichel,Hvidovre IF,1984,1980,1
+Schmeichel,Hvidovre IF,1985,1980,1
+Schmeichel,Hvidovre IF,1986,1980,1
+Schmeichel,Hvidovre IF,1987,1980,1
+Schmeichel,Hvidovre IF,1987,1980,1
+Schmeichel,Hvidovre IF,1988,1980,1
+Schmeichel,Hvidovre IF,1989,1980,1
+Stoitschkow,Bulgarien,1986,1980,1
+Stoitschkow,Bulgarien,1987,1980,1
+Stoitschkow,Bulgarien,1988,1980,1
+Stoitschkow,Bulgarien,1989,1980,1
+Stoitschkow,Hebros Harmanli,1982,1980,1
+Stoitschkow,Hebros Harmanli,1983,1980,1
+Stoitschkow,Hebros Harmanli,1984,1980,1
+Stoitschkow,ZSKA Sofia,1984,1980,1
+Stoitschkow,ZSKA Sofia,1985,1980,1
+Stoitschkow,ZSKA Sofia,1986,1980,1
+Stoitschkow,ZSKA Sofia,1987,1980,1
+Stoitschkow,ZSKA Sofia,1988,1980,1
+Stoitschkow,ZSKA Sofia,1989,1980,1
+Weah,Africa Sports National,1987,1980,1
+Weah,AS Monaco,1988,1980,1
+Weah,AS Monaco,1989,1980,1
+Weah,Bongrange Company,1985,1980,1
+Weah,Invincible Eleven,1986,1980,1
+Weah,Invincible Eleven,1987,1980,1
+Weah,Liberia,1988,1980,1
+Weah,Liberia,1989,1980,1
+Weah,Mighty Barolle,1986,1980,1
+Weah,Tonnerre Yaounde,1987,1980,1
+Weah,Tonnerre Yaounde,1988,1980,1
+Zoff,Italien,1989,1980,1
+Zoff,Italien,1990,1980,1
+Zoff,Italien,1991,1980,1
+Zoff,Juventus Turin,1992,1980,1
+Zoff,Juventus Turin,1993,1980,1
+Zoff,Juventus Turin,1994,1980,1
+Zoff,Juventus Turin,1995,1980,1
+Zoff,Juventus Turin,1988,1980,2
+Zoff,Juventus Turin,1989,1980,2
+Beckham,England,1996,1990,1
+Beckham,England,1997,1990,1
+Beckham,England,1998,1990,1
+Beckham,England,1999,1990,1
+Beckham,Manchester United,1992,1990,1
+Beckham,Manchester United,1993,1990,1
+Beckham,Manchester United,1994,1990,1
+Beckham,Manchester United,1995,1990,1
+Beckham,Manchester United,1996,1990,1
+Beckham,Manchester United,1997,1990,1
+Beckham,Manchester United,1998,1990,1
+Beckham,Manchester United,1999,1990,1
+Beckham,Preston North End,1995,1990,1
+Owen,England,1998,1990,1
+Owen,England,1999,1990,1
+Owen,FC Liverpool,1996,1990,1
+Owen,FC Liverpool,1997,1990,1
+Owen,FC Liverpool,1998,1990,1
+Owen,FC Liverpool,1999,1990,1
+Schmeichel,Brondby IF,1990,1990,1
+Schmeichel,Brondby IF,1991,1990,1
+Schmeichel,Danemark,1990,1990,1
+Schmeichel,Danemark,1991,1990,1
+Schmeichel,Danemark,1992,1990,1
+Schmeichel,Danemark,1993,1990,1
+Schmeichel,Danemark,1994,1990,1
+Schmeichel,Danemark,1995,1990,1
+Schmeichel,Danemark,1996,1990,1
+Schmeichel,Danemark,1997,1990,1
+Schmeichel,Danemark,1998,1990,1
+Schmeichel,Danemark,1999,1990,1
+Schmeichel,Hvidovre IF,1990,1990,1
+Schmeichel,Hvidovre IF,1991,1990,1
+Schmeichel,Manchester United,1991,1990,1
+Schmeichel,Manchester United,1992,1990,1
+Schmeichel,Manchester United,1993,1990,1
+Schmeichel,Manchester United,1994,1990,1
+Schmeichel,Manchester United,1995,1990,1
+Schmeichel,Manchester United,1996,1990,1
+Schmeichel,Manchester United,1997,1990,1
+Schmeichel,Manchester United,1998,1990,1
+Schmeichel,Manchester United,1999,1990,1
+Schmeichel,Sporting Lissabon,1999,1990,1
+Stoitschkow,AC Parma,1995,1990,1
+Stoitschkow,AC Parma,1996,1990,1
+Stoitschkow,Al Nasr,1998,1990,1
+Stoitschkow,Bulgarien,1999,1990,1
+Stoitschkow,Bulgarien,2000,1990,1
+Stoitschkow,Bulgarien,2001,1990,1
+Stoitschkow,Bulgarien,2002,1990,1
+Stoitschkow,Bulgarien,2003,1990,1
+Stoitschkow,Bulgarien,2004,1990,1
+Stoitschkow,Bulgarien,2005,1990,1
+Stoitschkow,Bulgarien,2006,1990,1
+Stoitschkow,Bulgarien,2007,1990,1
+Stoitschkow,Bulgarien,2008,1990,1
+Stoitschkow,FC Barcelona,1990,1990,1
+Stoitschkow,FC Barcelona,1991,1990,1
+Stoitschkow,FC Barcelona,1992,1990,1
+Stoitschkow,FC Barcelona,1993,1990,1
+Stoitschkow,FC Barcelona,1994,1990,1
+Stoitschkow,FC Barcelona,1995,1990,1
+Stoitschkow,FC Barcelona,1996,1990,1
+Stoitschkow,FC Barcelona,1997,1990,1
+Stoitschkow,FC Barcelona,1998,1990,1
+Stoitschkow,Kashiwa Reysol,1998,1990,1
+Stoitschkow,Kashiwa Reysol,1999,1990,1
+Stoitschkow,ZSKA Sofia,1990,1990,1
+Stoitschkow,ZSKA Sofia,1998,1990,1
+Weah,AC Mailand,1995,1990,1
+Weah,AC Mailand,1996,1990,1
+Weah,AC Mailand,1997,1990,1
+Weah,AC Mailand,1998,1990,1
+Weah,AC Mailand,1999,1990,1
+Weah,AS Monaco,2000,1990,1
+Weah,AS Monaco,2001,1990,1
+Weah,AS Monaco,2002,1990,1
+Weah,Liberia,2003,1990,1
+Weah,Liberia,2004,1990,1
+Weah,Liberia,2005,1990,1
+Weah,Liberia,2006,1990,1
+Weah,Liberia,2007,1990,1
+Weah,Liberia,2008,1990,1
+Weah,Liberia,2009,1990,1
+Weah,Liberia,2010,1990,1
+Weah,Liberia,2011,1990,1
+Weah,Liberia,2012,1990,1
+Weah,Paris Saint Germain,1992,1990,1
+Weah,Paris Saint Germain,1993,1990,1
+Weah,Paris Saint Germain,1994,1990,1
+Weah,Paris Saint Germain,1995,1990,1
+Zoff,Italien,1998,1990,2
+Zoff,Italien,1999,1990,2
+Zoff,Juventus Turin,1990,1990,2
+Zoff,Lazio Rom,1990,1990,2
+Zoff,Lazio Rom,1991,1990,2
+Zoff,Lazio Rom,1992,1990,2
+Zoff,Lazio Rom,1993,1990,2
+Zoff,Lazio Rom,1994,1990,2
+Zoff,Lazio Rom,1996,1990,2
+Zoff,Lazio Rom,1997,1990,2
+Baggio,Brescia Calcio,2000,2000,1
+Baggio,Brescia Calcio,2001,2000,1
+Baggio,Brescia Calcio,2002,2000,1
+Baggio,Brescia Calcio,2003,2000,1
+Baggio,Brescia Calcio,2004,2000,1
+Baggio,Inter Mailand,2000,2000,1
+Baggio,Italien,2000,2000,1
+Baggio,Italien,2001,2000,1
+Baggio,Italien,2002,2000,1
+Baggio,Italien,2003,2000,1
+Baggio,Italien,2004,2000,1
+Basten,Ajax Amsterdam,2008,2000,2
+Basten,Ajax Amsterdam,2009,2000,2
+Basten,Niederlande,2004,2000,2
+Basten,Niederlande,2005,2000,2
+Basten,Niederlande,2006,2000,2
+Basten,Niederlande,2007,2000,2
+Basten,Niederlande,2008,2000,2
+Batistuta,AC Florenz,2000,2000,1
+Batistuta,al Arabi,2003,2000,1
+Batistuta,al Arabi,2004,2000,1
+Batistuta,al Arabi,2005,2000,1
+Batistuta,Argentinien,2000,2000,1
+Batistuta,Argentinien,2001,2000,1
+Batistuta,Argentinien,2002,2000,1
+Batistuta,AS Rom,2000,2000,1
+Batistuta,AS Rom,2001,2000,1
+Batistuta,AS Rom,2002,2000,1
+Batistuta,AS Rom,2003,2000,1
+Batistuta,Inter Mailand,2003,2000,1
+Beckham,England,2004,2000,1
+Beckham,England,2005,2000,1
+Beckham,England,2006,2000,1
+Beckham,England,2007,2000,1
+Beckham,England,2008,2000,1
+Beckham,England,2009,2000,1
+Beckham,England,2010,2000,1
+Beckham,England,2011,2000,1
+Beckham,England,2012,2000,1
+Beckham,England,2013,2000,1
+Beckham,LA Galaxy,2007,2000,1
+Beckham,LA Galaxy,2008,2000,1
+Beckham,LA Galaxy,2009,2000,1
+Beckham,Manchester United,2010,2000,1
+Beckham,Manchester United,2011,2000,1
+Beckham,Manchester United,2012,2000,1
+Beckham,Manchester United,2013,2000,1
+Beckham,Real Madrid,2003,2000,1
+Beckham,Real Madrid,2004,2000,1
+Beckham,Real Madrid,2005,2000,1
+Beckham,Real Madrid,2006,2000,1
+Beckham,Real Madrid,2007,2000,1
+Bergkamp,FC Arsenal,2000,2000,1
+Bergkamp,FC Arsenal,2001,2000,1
+Bergkamp,FC Arsenal,2002,2000,1
+Bergkamp,FC Arsenal,2003,2000,1
+Bergkamp,FC Arsenal,2004,2000,1
+Bergkamp,FC Arsenal,2005,2000,1
+Bergkamp,FC Arsenal,2006,2000,1
+Bergkamp,Niederlande,2000,2000,1
+Dalglish,Celtic Glasgow,2000,2000,2
+Gullit,Feyenoord Rotterdam,2004,2000,2
+Gullit,Feyenoord Rotterdam,2005,2000,2
+Gullit,LA Galaxy,2007,2000,2
+Gullit,LA Galaxy,2008,2000,2
+Gullit,Niederlande,2004,2000,2
+Gullit,Niederlande,2003,2000,2
+Gullit,Niederlande,2004,2000,2
+Hagi,Bursaspor,2003,2000,2
+Hagi,FCU Politehnica Timisoara,2005,2000,2
+Hagi,FCU Politehnica Timisoara,2006,2000,2
+Hagi,Galatasaray Istanbul,2000,2000,1
+Hagi,Galatasaray Istanbul,2001,2000,1
+Hagi,Galatasaray Istanbul,2004,2000,2
+Hagi,Galatasaray Istanbul,2005,2000,2
+Hagi,Rumanien,2000,2000,1
+Hagi,Rumanien,2001,2000,2
+Hagi,Steaua Bukarest,2007,2000,2
+Jairzinho,Gabun,2003,2000,2
+Jairzinho,Gabun,2004,2000,2
+Jairzinho,Gabun,2005,2000,2
+Klinsmann,Deutschland,2004,2000,2
+Klinsmann,Deutschland,2005,2000,2
+Klinsmann,Deutschland,2006,2000,2
+Klinsmann,FC Bayern Munchen,2008,2000,2
+Klinsmann,FC Bayern Munchen,2009,2000,2
+Klinsmann,Orange County Blue Star,2003,2000,1
+Maldini,AC Mailand,2000,2000,1
+Maldini,AC Mailand,2001,2000,1
+Maldini,AC Mailand,2002,2000,1
+Maldini,AC Mailand,2003,2000,1
+Maldini,AC Mailand,2004,2000,1
+Maldini,AC Mailand,2005,2000,1
+Maldini,AC Mailand,2006,2000,1
+Maldini,AC Mailand,2007,2000,1
+Maldini,AC Mailand,2008,2000,1
+Maldini,AC Mailand,2009,2000,1
+Maldini,Italien,2000,2000,1
+Maldini,Italien,2001,2000,1
+Maldini,Italien,2002,2000,1
+Matthaus,Athletico Paranaense,2006,2000,2
+Matthaus,Deutschland,2000,2000,1
+Matthaus,FC Bayern Munchen,2000,2000,1
+Matthaus,FC Lokomotive Leipzig,2005,2000,1
+Matthaus,FK Partizan Belgrad,2002,2000,2
+Matthaus,FK Partizan Belgrad,2003,2000,2
+Matthaus,Maccabi Netanja,2008,2000,2
+Matthaus,Maccabi Netanja,2009,2000,2
+Matthaus,New York Red Bulls,2000,2000,1
+Matthaus,SK Rapid Wien,2001,2000,2
+Matthaus,SK Rapid Wien,2002,2000,2
+Matthaus,Ungarn,2004,2000,2
+Matthaus,Ungarn,2005,2000,2
+Owen,England,2006,2000,1
+Owen,England,2007,2000,1
+Owen,England,2008,2000,1
+Owen,England,2009,2000,1
+Owen,England,2010,2000,1
+Owen,England,2011,2000,1
+Owen,England,2012,2000,1
+Owen,England,2013,2000,1
+Owen,England,2014,2000,1
+Owen,FC Liverpool,2015,2000,1
+Owen,FC Liverpool,2016,2000,1
+Owen,FC Liverpool,2017,2000,1
+Owen,FC Liverpool,2018,2000,1
+Owen,FC Liverpool,2019,2000,1
+Owen,Manchester United,2009,2000,1
+Owen,Newcastle United,2005,2000,1
+Owen,Newcastle United,2006,2000,1
+Owen,Newcastle United,2007,2000,1
+Owen,Newcastle United,2008,2000,1
+Owen,Newcastle United,2009,2000,1
+Owen,Real Madrid,2004,2000,1
+Owen,Real Madrid,2005,2000,1
+Romario,Adelaide United,2006,2000,1
+Romario,Al Sadd,2003,2000,1
+Romario,Brasilien,2000,2000,1
+Romario,Brasilien,2001,2000,1
+Romario,Brasilien,2002,2000,1
+Romario,Brasilien,2003,2000,1
+Romario,Brasilien,2004,2000,1
+Romario,Brasilien,2005,2000,1
+Romario,CR Vasco da Gama,2000,2000,1
+Romario,CR Vasco da Gama,2001,2000,1
+Romario,CR Vasco da Gama,2002,2000,1
+Romario,CR Vasco da Gama,2005,2000,1
+Romario,CR Vasco da Gama,2006,2000,1
+Romario,CR Vasco da Gama,2007,2000,1
+Romario,CR Vasco da Gama,2008,2000,1
+Romario,CR Vasco da Gama,2008,2000,2
+Romario,Fluminense Rio de Janeiro,2002,2000,1
+Romario,Fluminense Rio de Janeiro,2003,2000,1
+Romario,Fluminense Rio de Janeiro,2003,2000,1
+Romario,Fluminense Rio de Janeiro,2004,2000,1
+Romario,Miami FC,2006,2000,1
+Ronaldo,AC Mailand,2007,2000,1
+Ronaldo,AC Mailand,2008,2000,1
+Ronaldo,Brasilien,2000,2000,1
+Ronaldo,Brasilien,2001,2000,1
+Ronaldo,Brasilien,2002,2000,1
+Ronaldo,Brasilien,2003,2000,1
+Ronaldo,Brasilien,2004,2000,1
+Ronaldo,Brasilien,2005,2000,1
+Ronaldo,Brasilien,2006,2000,1
+Ronaldo,Brasilien,2007,2000,1
+Ronaldo,Brasilien,2008,2000,1
+Ronaldo,Brasilien,2009,2000,1
+Ronaldo,Inter Mailand,2000,2000,1
+Ronaldo,Inter Mailand,2001,2000,1
+Ronaldo,Inter Mailand,2002,2000,1
+Ronaldo,Real Madrid,2002,2000,1
+Ronaldo,Real Madrid,2003,2000,1
+Ronaldo,Real Madrid,2004,2000,1
+Ronaldo,Real Madrid,2005,2000,1
+Ronaldo,Real Madrid,2006,2000,1
+Ronaldo,Real Madrid,2007,2000,1
+Rush,Chester City,2004,2000,2
+Rush,Chester City,2005,2000,2
+Rush,Sydney Olympic,2000,2000,1
+Schmeichel,Aston Villa,2001,2000,1
+Schmeichel,Aston Villa,2002,2000,1
+Schmeichel,Danemark,2000,2000,1
+Schmeichel,Danemark,2001,2000,1
+Schmeichel,Manchester City,2002,2000,1
+Schmeichel,Manchester City,2003,2000,1
+Schmeichel,Sporting Lissabon,2000,2000,1
+Schmeichel,Sporting Lissabon,2001,2000,1
+Stoitschkow,Bulgarien,2004,2000,2
+Stoitschkow,Bulgarien,2005,2000,2
+Stoitschkow,Bulgarien,2006,2000,2
+Stoitschkow,Bulgarien,2007,2000,2
+Stoitschkow,Celta de Vigo,2007,2000,2
+Stoitschkow,Chicago Fire,2000,2000,1
+Stoitschkow,Chicago Fire,2001,2000,1
+Stoitschkow,Chicago Fire,2002,2000,1
+Stoitschkow,DC United,2003,2000,1
+Stoitschkow,Mamelodi Sundowns,2009,2000,2
+Weah,AC Mailand,2010,2000,1
+Weah,Al Jazira Club,2001,2000,1
+Weah,Al Jazira Club,2002,2000,1
+Weah,Al Jazira Club,2003,2000,1
+Weah,FC Chelsea,2000,2000,1
+Weah,Liberia,2001,2000,1
+Weah,Liberia,2002,2000,1
+Weah,Liberia,2003,2000,1
+Weah,Liberia,2004,2000,1
+Weah,Liberia,2005,2000,1
+Weah,Liberia,2006,2000,1
+Weah,Liberia,2007,2000,1
+Weah,Liberia,2008,2000,1
+Weah,Liberia,2009,2000,1
+Weah,Liberia,2010,2000,1
+Weah,Manchester City,2000,2000,1
+Weah,Olympique Marseille,2000,2000,1
+Weah,Olympique Marseille,2001,2000,1
+Weah,Valiente Koriyama Tokyo,2008,2000,2
+Zico,Bunjodkor Taschkent,2008,2000,2
+Zico,Bunjodkor Taschkent,2009,2000,2
+Zico,Fenerbahce Istanbul,2006,2000,2
+Zico,Fenerbahce Istanbul,2007,2000,2
+Zico,Fenerbahce Istanbul,2008,2000,2
+Zico,Japan,2002,2000,2
+Zico,Japan,2003,2000,2
+Zico,Japan,2004,2000,2
+Zico,Japan,2005,2000,2
+Zico,Japan,2006,2000,2
+Zico,Olympiakos Piraus,2009,2000,2
+Zico,ZSKA Moskau,2009,2000,2
+Zidane,Frankreich,2000,2000,1
+Zidane,Frankreich,2001,2000,1
+Zidane,Frankreich,2002,2000,1
+Zidane,Frankreich,2003,2000,1
+Zidane,Frankreich,2004,2000,1
+Zidane,Frankreich,2005,2000,1
+Zidane,Frankreich,2006,2000,1
+Zidane,Juventus Turin,2000,2000,1
+Zidane,Juventus Turin,2001,2000,1
+Zidane,Real Madrid,2001,2000,1
+Zidane,Real Madrid,2002,2000,1
+Zidane,Real Madrid,2003,2000,1
+Zidane,Real Madrid,2004,2000,1
+Zidane,Real Madrid,2005,2000,1
+Zidane,Real Madrid,2006,2000,1
+Zoff,AC Florenz,2005,2000,2
+Zoff,Italien,2000,2000,2
+Zoff,Lazio Rom,2001,2000,2
+Meazza,Inter Mailand,1927,2000,1
+Meazza,Inter Mailand,1928,2000,1
+Meazza,Inter Mailand,1929,2000,1
+Basten,AZ Alkmaar,2014,2010,2
+Basten,SC Heerenveen,2012,2010,2
+Basten,SC Heerenveen,2013,2010,2
+Basten,SC Heerenveen,2014,2010,2
+Beckham,AC Mailand,2009,2010,1
+Beckham,AC Mailand,2010,2010,1
+Beckham,LA Galaxy,2010,2010,1
+Beckham,LA Galaxy,2011,2010,1
+Beckham,LA Galaxy,2012,2010,1
+Beckham,Paris Saint Germain,2013,2010,1
+Dalglish,FC Liverpool,2011,2010,2
+Dalglish,FC Liverpool,2012,2010,2
+Gullit,Niederlande,2017,2010,2
+Gullit,Terek Grosny,2011,2010,2
+Hagi,FC Viitorul Constanta,2014,2010,2
+Hagi,FC Viitorul Constanta,2015,2010,2
+Hagi,FC Viitorul Constanta,2016,2010,2
+Hagi,FC Viitorul Constanta,2017,2010,2
+Hagi,FC Viitorul Constanta,2018,2010,2
+Hagi,FC Viitorul Constanta,2019,2010,2
+Hagi,Galatasaray Istanbul,2010,2010,2
+Hagi,Galatasaray Istanbul,2011,2010,2
+Klinsmann,Hertha BSC,2019,2010,2
+Klinsmann,USA,2011,2010,2
+Klinsmann,USA,2012,2010,2
+Klinsmann,USA,2013,2010,2
+Klinsmann,USA,2014,2010,2
+Klinsmann,USA,2015,2010,2
+Klinsmann,USA,2016,2010,2
+Matthaus,Bulgarien,2010,2010,2
+Matthaus,Bulgarien,2011,2010,2
+Matthaus,FC Herzogenaurach,2018,2010,1
+Owen,Manchester United,2010,2010,1
+Owen,Manchester United,2011,2010,1
+Owen,Manchester United,2012,2010,1
+Owen,Stoke City,2012,2010,1
+Owen,Stoke City,2013,2010,1
+Ronaldo,Brasilien,2010,2010,1
+Ronaldo,Brasilien,2011,2010,1
+Ronaldo,Corinthians Sao Paulo,2009,2010,1
+Ronaldo,Corinthians Sao Paulo,2010,2010,1
+Ronaldo,Corinthians Sao Paulo,2011,2010,1
+Stoitschkow,Litex Lowetsch,2012,2010,2
+Stoitschkow,Litex Lowetsch,2013,2010,2
+Stoitschkow,Mamelodi Sundowns,2010,2010,2
+Stoitschkow,ZSKA Sofia,2013,2010,2
+Weah,Liberia,2014,2010,1
+Weah,Liberia,2015,2010,1
+Weah,Liberia,2016,2010,1
+Weah,Liberia,2017,2010,1
+Weah,Liberia,2018,2010,1
+Weah,Liberia,2019,2010,1
+Weah,Liberia,2020,2010,1
+Weah,Liberia,2021,2010,1
+Weah,Liberia,2022,2010,1
+Zico,al Gharafa Sports Club,2013,2010,2
+Zico,al Gharafa Sports Club,2014,2010,2
+Zico,FC Goa,2014,2010,2
+Zico,FC Goa,2015,2010,2
+Zico,FC Goa,2016,2010,2
+Zico,FC Goa,2017,2010,2
+Zico,Irak,2011,2010,2
+Zico,Irak,2012,2010,2
+Zico,Olympiakos Piraus,2010,2010,2
+Zidane,Real Madrid,2013,2010,2
+Zidane,Real Madrid,2014,2010,2
+Zidane,Real Madrid,2016,2010,2
+Zidane,Real Madrid,2017,2010,2
+Zidane,Real Madrid,2018,2010,2
+Zidane,Real Madrid,2019,2010,2
+Hagi,FC Viitorul Constanta,2020,2020,2
+Klinsmann,Hertha BSC,2020,2020,2
+Zidane,Real Madrid,2020,2020,2
+Zidane,Real Madrid,2021,2020,2
+Matthews,England,1934,1930,1
+Matthews,England,1935,1930,1
+Matthews,England,1936,1930,1
+Matthews,England,1937,1930,1
+Matthews,England,1938,1930,1
+Matthews,England,1939,1930,1
+Matthews,Stoke City,1934,1930,1
+Matthews,Stoke City,1935,1930,1
+Matthews,Stoke City,1936,1930,1
+Matthews,Stoke City,1937,1930,1
+Matthews,Stoke City,1938,1930,1
+Matthews,Stoke City,1939,1930,1
+Meazza,Inter Mailand,1930,1930,1
+Meazza,Inter Mailand,1931,1930,1
+Meazza,Inter Mailand,1932,1930,1
+Meazza,Inter Mailand,1933,1930,1
+Meazza,Inter Mailand,1934,1930,1
+Meazza,Inter Mailand,1935,1930,1
+Meazza,Inter Mailand,1936,1930,1
+Meazza,Inter Mailand,1937,1930,1
+Meazza,Inter Mailand,1938,1930,1
+Meazza,Inter Mailand,1939,1930,1
+Meazza,Italien,1930,1930,1
+Meazza,Italien,1931,1930,1
+Meazza,Italien,1932,1930,1
+Meazza,Italien,1933,1930,1
+Meazza,Italien,1934,1930,1
+Meazza,Italien,1935,1930,1
+Meazza,Italien,1936,1930,1
+Meazza,Italien,1937,1930,1
+Meazza,Italien,1938,1930,1
+Meazza,Italien,1939,1930,1
+Charles,Leeds United,1948,1940,1
+Charles,Leeds United,1949,1940,1
+Didi,Americano FC,1946,1940,1
+Didi,Clube Atletico Lencoense,1946,1940,1
+Didi,Clube Atletico Lencoense,1947,1940,1
+Didi,Clube Atletico Lencoense,1948,1940,1
+Didi,Fluminense Rio de Janeiro,1949,1940,1
+Didi,Madureira FC,1948,1940,1
+Didi,Madureira FC,1949,1940,1
+Matthews,England,1940,1940,1
+Matthews,England,1941,1940,1
+Matthews,England,1942,1940,1
+Matthews,England,1943,1940,1
+Matthews,England,1944,1940,1
+Matthews,England,1945,1940,1
+Matthews,England,1946,1940,1
+Matthews,England,1947,1940,1
+Matthews,England,1948,1940,1
+Matthews,England,1949,1940,1
+Matthews,FC Blackpool,1947,1940,1
+Matthews,FC Blackpool,1948,1940,1
+Matthews,FC Blackpool,1949,1940,1
+Matthews,Stoke City,1940,1940,1
+Matthews,Stoke City,1941,1940,1
+Matthews,Stoke City,1942,1940,1
+Matthews,Stoke City,1943,1940,1
+Matthews,Stoke City,1944,1940,1
+Matthews,Stoke City,1945,1940,1
+Matthews,Stoke City,1946,1940,1
+Matthews,Stoke City,1947,1940,1
+Meazza,AC Mailand,1940,1940,1
+Meazza,AC Mailand,1941,1940,1
+Meazza,AC Mailand,1942,1940,1
+Meazza,Atalanta Bergamo,1945,1940,1
+Meazza,Atalanta Bergamo,1946,1940,1
+Meazza,Atalanta Bergamo,1945,1940,2
+Meazza,Atalanta Bergamo,1946,1940,2
+Meazza,Besiktas Istanbul,1948,1940,2
+Meazza,Besiktas Istanbul,1949,1940,2
+Meazza,FC Varese,1944,1940,1
+Meazza,Inter Mailand,1940,1940,1
+Meazza,Inter Mailand,1946,1940,1
+Meazza,Inter Mailand,1947,1940,1
+Meazza,Inter Mailand,1946,1940,2
+Meazza,Inter Mailand,1947,1940,2
+Meazza,Inter Mailand,1948,1940,2
+Meazza,Juventus Turin,1942,1940,1
+Meazza,Juventus Turin,1943,1940,1
+Meazza,Pro Patria Calcio,1949,1940,2
+Puskas,Budapest Honved FC,1942,1940,1
+Puskas,Budapest Honved FC,1943,1940,1
+Puskas,Budapest Honved FC,1944,1940,1
+Puskas,Budapest Honved FC,1945,1940,1
+Puskas,Budapest Honved FC,1946,1940,1
+Puskas,Budapest Honved FC,1947,1940,1
+Puskas,Budapest Honved FC,1948,1940,1
+Puskas,Budapest Honved FC,1949,1940,1
+Puskas,Ungarn,1945,1940,1
+Puskas,Ungarn,1946,1940,1
+Puskas,Ungarn,1947,1940,1
+Puskas,Ungarn,1948,1940,1
+Puskas,Ungarn,1949,1940,1
+Stefano,Argentinien,1947,1940,1
+Stefano,CA Huracan,1945,1940,1
+Stefano,CA Huracan,1946,1940,1
+Stefano,CD Los Millonarios,1949,1940,1
+Stefano,Kolumbien,1949,1940,1
+Stefano,River Plate,1945,1940,1
+Stefano,River Plate,1946,1940,1
+Stefano,River Plate,1947,1940,1
+Stefano,River Plate,1948,1940,1
+Stefano,River Plate,1949,1940,1
+Banks,FC Chesterfield,1958,1950,1
+Banks,FC Chesterfield,1959,1950,1
+Banks,Leicester City,1959,1950,1
+Charles,Juventus Turin,1957,1950,1
+Charles,Juventus Turin,1958,1950,1
+Charles,Juventus Turin,1959,1950,1
+Charles,Leeds United,1950,1950,1
+Charles,Leeds United,1951,1950,1
+Charles,Leeds United,1952,1950,1
+Charles,Leeds United,1953,1950,1
+Charles,Leeds United,1954,1950,1
+Charles,Leeds United,1955,1950,1
+Charles,Leeds United,1956,1950,1
+Charles,Leeds United,1957,1950,1
+Charles,Wales,1950,1950,1
+Charles,Wales,1951,1950,1
+Charles,Wales,1952,1950,1
+Charles,Wales,1953,1950,1
+Charles,Wales,1954,1950,1
+Charles,Wales,1955,1950,1
+Charles,Wales,1956,1950,1
+Charles,Wales,1957,1950,1
+Charles,Wales,1958,1950,1
+Charles,Wales,1959,1950,1
+Charlton,England,1958,1950,1
+Charlton,England,1959,1950,1
+Charlton,Manchester United,1954,1950,1
+Charlton,Manchester United,1955,1950,1
+Charlton,Manchester United,1956,1950,1
+Charlton,Manchester United,1957,1950,1
+Didi,Botafogo FR,1957,1950,1
+Didi,Botafogo FR,1958,1950,1
+Didi,Botafogo FR,1959,1950,1
+Didi,Fluminense Rio de Janeiro,1950,1950,1
+Didi,Fluminense Rio de Janeiro,1951,1950,1
+Didi,Fluminense Rio de Janeiro,1952,1950,1
+Didi,Fluminense Rio de Janeiro,1953,1950,1
+Didi,Fluminense Rio de Janeiro,1954,1950,1
+Didi,Fluminense Rio de Janeiro,1955,1950,1
+Didi,Fluminense Rio de Janeiro,1956,1950,1
+Didi,Real Madrid,1959,1950,1
+Eusebio,SC Lourenco Marques,1957,1950,1
+Eusebio,SC Lourenco Marques,1958,1950,1
+Eusebio,SC Lourenco Marques,1959,1950,1
+Garrincha,Botafogo FR,1953,1950,1
+Garrincha,Botafogo FR,1954,1950,1
+Garrincha,Botafogo FR,1955,1950,1
+Garrincha,Botafogo FR,1956,1950,1
+Garrincha,Botafogo FR,1957,1950,1
+Garrincha,Botafogo FR,1958,1950,1
+Garrincha,Botafogo FR,1959,1950,1
+Garrincha,Brasilien,1955,1950,1
+Garrincha,Brasilien,1956,1950,1
+Garrincha,Brasilien,1957,1950,1
+Garrincha,Brasilien,1958,1950,1
+Garrincha,Brasilien,1959,1950,1
+Jairzinho,Botafogo FR,1959,1950,1
+Jaschin,Dynamo Moskau,1950,1950,1
+Jaschin,Dynamo Moskau,1951,1950,1
+Jaschin,Dynamo Moskau,1952,1950,1
+Jaschin,Dynamo Moskau,1953,1950,1
+Jaschin,Dynamo Moskau,1954,1950,1
+Jaschin,Dynamo Moskau,1955,1950,1
+Jaschin,Dynamo Moskau,1956,1950,1
+Jaschin,Dynamo Moskau,1957,1950,1
+Jaschin,Dynamo Moskau,1958,1950,1
+Jaschin,Dynamo Moskau,1959,1950,1
+Jaschin,Russland,1954,1950,1
+Jaschin,Russland,1955,1950,1
+Jaschin,Russland,1956,1950,1
+Jaschin,Russland,1957,1950,1
+Jaschin,Russland,1958,1950,1
+Jaschin,Russland,1959,1950,1
+Matthews,England,1950,1950,1
+Matthews,England,1951,1950,1
+Matthews,England,1952,1950,1
+Matthews,England,1953,1950,1
+Matthews,England,1954,1950,1
+Matthews,England,1955,1950,1
+Matthews,England,1956,1950,1
+Matthews,England,1957,1950,1
+Matthews,FC Blackpool,1950,1950,1
+Matthews,FC Blackpool,1951,1950,1
+Matthews,FC Blackpool,1952,1950,1
+Matthews,FC Blackpool,1953,1950,1
+Matthews,FC Blackpool,1954,1950,1
+Matthews,FC Blackpool,1955,1950,1
+Matthews,FC Blackpool,1956,1950,1
+Matthews,FC Blackpool,1957,1950,1
+Matthews,FC Blackpool,1958,1950,1
+Matthews,FC Blackpool,1959,1950,1
+Meazza,Inter Mailand,1955,1950,2
+Meazza,Inter Mailand,1956,1950,2
+Meazza,Inter Mailand,1957,1950,2
+Meazza,Italien,1952,1950,2
+Meazza,Italien,1953,1950,2
+Meazza,Pro Patria Calcio,1950,1950,2
+Meazza,Pro Patria Calcio,1951,1950,2
+Moore,West Ham United,1958,1950,1
+Moore,West Ham United,1959,1950,1
+Pele,Brasilien,1957,1950,1
+Pele,Brasilien,1958,1950,1
+Pele,Brasilien,1959,1950,1
+Pele,FC Santos,1956,1950,1
+Pele,FC Santos,1957,1950,1
+Pele,FC Santos,1958,1950,1
+Pele,FC Santos,1959,1950,1
+Puskas,Budapest Honved FC,1950,1950,1
+Puskas,Budapest Honved FC,1951,1950,1
+Puskas,Budapest Honved FC,1952,1950,1
+Puskas,Budapest Honved FC,1953,1950,1
+Puskas,Budapest Honved FC,1954,1950,1
+Puskas,Budapest Honved FC,1955,1950,1
+Puskas,Budapest Honved FC,1956,1950,1
+Puskas,Real Madrid,1958,1950,1
+Puskas,Real Madrid,1959,1950,1
+Puskas,Ungarn,1950,1950,1
+Puskas,Ungarn,1951,1950,1
+Puskas,Ungarn,1952,1950,1
+Puskas,Ungarn,1953,1950,1
+Puskas,Ungarn,1954,1950,1
+Puskas,Ungarn,1955,1950,1
+Puskas,Ungarn,1956,1950,1
+Stefano,CD Los Millonarios,1950,1950,1
+Stefano,CD Los Millonarios,1951,1950,1
+Stefano,CD Los Millonarios,1952,1950,1
+Stefano,CD Los Millonarios,1953,1950,1
+Stefano,Real Madrid,1953,1950,1
+Stefano,Real Madrid,1954,1950,1
+Stefano,Real Madrid,1955,1950,1
+Stefano,Real Madrid,1956,1950,1
+Stefano,Real Madrid,1957,1950,1
+Stefano,Real Madrid,1958,1950,1
+Stefano,Real Madrid,1959,1950,1
+Stefano,Spanien,1957,1950,1
+Stefano,Spanien,1958,1950,1
+Stefano,Spanien,1959,1950,1
+Banks,Cleveland Stokers,1967,1960,1
+Banks,England,1963,1960,1
+Banks,England,1964,1960,1
+Banks,England,1965,1960,1
+Banks,England,1966,1960,1
+Banks,England,1967,1960,1
+Banks,England,1968,1960,1
+Banks,England,1969,1960,1
+Banks,Leicester City,1960,1960,1
+Banks,Leicester City,1961,1960,1
+Banks,Leicester City,1962,1960,1
+Banks,Leicester City,1963,1960,1
+Banks,Leicester City,1964,1960,1
+Banks,Leicester City,1965,1960,1
+Banks,Leicester City,1966,1960,1
+Banks,Leicester City,1967,1960,1
+Banks,Stoke City,1967,1960,1
+Banks,Stoke City,1968,1960,1
+Banks,Stoke City,1969,1960,1
+Beckenbauer,Deutschland,1965,1960,1
+Beckenbauer,Deutschland,1966,1960,1
+Beckenbauer,Deutschland,1967,1960,1
+Beckenbauer,Deutschland,1968,1960,1
+Beckenbauer,Deutschland,1969,1960,1
+Beckenbauer,FC Bayern Munchen,1964,1960,1
+Beckenbauer,FC Bayern Munchen,1965,1960,1
+Beckenbauer,FC Bayern Munchen,1966,1960,1
+Beckenbauer,FC Bayern Munchen,1967,1960,1
+Beckenbauer,FC Bayern Munchen,1968,1960,1
+Beckenbauer,FC Bayern Munchen,1969,1960,1
+Best,Manchester United,1963,1960,1
+Best,Manchester United,1964,1960,1
+Best,Manchester United,1965,1960,1
+Best,Manchester United,1966,1960,1
+Best,Manchester United,1967,1960,1
+Best,Manchester United,1968,1960,1
+Best,Manchester United,1969,1960,1
+Best,Nordirland,1964,1960,2
+Best,Nordirland,1965,1960,2
+Best,Nordirland,1966,1960,2
+Best,Nordirland,1967,1960,2
+Best,Nordirland,1968,1960,2
+Best,Nordirland,1969,1960,2
+Charles,AS Rom,1962,1960,1
+Charles,AS Rom,1963,1960,1
+Charles,Cardiff City,1963,1960,1
+Charles,Cardiff City,1964,1960,1
+Charles,Cardiff City,1965,1960,1
+Charles,Cardiff City,1966,1960,1
+Charles,Hereford United,1966,1960,1
+Charles,Hereford United,1967,1960,1
+Charles,Hereford United,1968,1960,1
+Charles,Hereford United,1969,1960,1
+Charles,Hereford United,1967,1960,2
+Charles,Hereford United,1968,1960,2
+Charles,Hereford United,1969,1960,2
+Charles,Juventus Turin,1960,1960,1
+Charles,Juventus Turin,1961,1960,1
+Charles,Juventus Turin,1962,1960,1
+Charles,Leeds United,1962,1960,1
+Charles,Wales,1960,1960,1
+Charles,Wales,1961,1960,1
+Charles,Wales,1962,1960,1
+Charles,Wales,1963,1960,1
+Charles,Wales,1964,1960,1
+Charles,Wales,1965,1960,1
+Charlton,England,1960,1960,1
+Charlton,England,1961,1960,1
+Charlton,England,1962,1960,1
+Charlton,England,1963,1960,1
+Charlton,England,1964,1960,1
+Charlton,England,1965,1960,1
+Charlton,England,1966,1960,1
+Charlton,England,1967,1960,1
+Charlton,England,1968,1960,1
+Charlton,England,1969,1960,1
+Charlton,Manchester United,1960,1960,1
+Charlton,Manchester United,1961,1960,1
+Charlton,Manchester United,1962,1960,1
+Charlton,Manchester United,1963,1960,1
+Charlton,Manchester United,1964,1960,1
+Charlton,Manchester United,1965,1960,1
+Charlton,Manchester United,1966,1960,1
+Charlton,Manchester United,1967,1960,1
+Charlton,Manchester United,1968,1960,1
+Charlton,Manchester United,1969,1960,1
+Cruyff,Ajax Amsterdam,1964,1960,1
+Cruyff,Ajax Amsterdam,1965,1960,1
+Cruyff,Ajax Amsterdam,1966,1960,1
+Cruyff,Ajax Amsterdam,1967,1960,1
+Cruyff,Ajax Amsterdam,1968,1960,1
+Cruyff,Ajax Amsterdam,1969,1960,1
+Cruyff,Niederlande,1966,1960,1
+Cruyff,Niederlande,1967,1960,1
+Cruyff,Niederlande,1968,1960,1
+Cruyff,Niederlande,1969,1960,1
+Dalglish,Celtic Glasgow,1969,1960,1
+Didi,Botafogo FR,1960,1960,1
+Didi,Botafogo FR,1961,1960,1
+Didi,Botafogo FR,1962,1960,1
+Didi,Botafogo FR,1964,1960,1
+Didi,Botafogo FR,1965,1960,1
+Didi,Botafogo FR,1964,1960,2
+Didi,CD Veracruz,1965,1960,1
+Didi,CD Veracruz,1966,1960,1
+Didi,CD Veracruz,1965,1960,2
+Didi,FC Sao Paulo,1964,1960,1
+Didi,FC Sao Paulo,1966,1960,1
+Didi,FC Sao Paulo,1966,1960,2
+Didi,FC Sao Paulo,1967,1960,2
+Didi,Peru,1969,1960,2
+Didi,Real Madrid,1960,1960,1
+Didi,Sporting Cristal,1963,1960,1
+Didi,Sporting Cristal,1962,1960,2
+Didi,Sporting Cristal,1963,1960,2
+Didi,Sporting Cristal,1964,1960,2
+Didi,Sporting Cristal,1967,1960,2
+Didi,Sporting Cristal,1968,1960,2
+Didi,Sporting Cristal,1969,1960,2
+Eusebio,Benfica Lissabon,1960,1960,1
+Eusebio,Benfica Lissabon,1961,1960,1
+Eusebio,Benfica Lissabon,1962,1960,1
+Eusebio,Benfica Lissabon,1963,1960,1
+Eusebio,Benfica Lissabon,1964,1960,1
+Eusebio,Benfica Lissabon,1965,1960,1
+Eusebio,Benfica Lissabon,1966,1960,1
+Eusebio,Benfica Lissabon,1967,1960,1
+Eusebio,Benfica Lissabon,1968,1960,1
+Eusebio,Benfica Lissabon,1969,1960,1
+Eusebio,Portugal,1961,1960,1
+Eusebio,Portugal,1962,1960,1
+Eusebio,Portugal,1963,1960,1
+Eusebio,Portugal,1964,1960,1
+Eusebio,Portugal,1965,1960,1
+Eusebio,Portugal,1966,1960,1
+Eusebio,Portugal,1967,1960,1
+Eusebio,Portugal,1968,1960,1
+Eusebio,Portugal,1969,1960,1
+Eusebio,SC Lourenco Marques,1960,1960,1
+Garrincha,Atletico Junior,1968,1960,1
+Garrincha,Botafogo FR,1960,1960,1
+Garrincha,Botafogo FR,1961,1960,1
+Garrincha,Botafogo FR,1962,1960,1
+Garrincha,Botafogo FR,1963,1960,1
+Garrincha,Botafogo FR,1964,1960,1
+Garrincha,Botafogo FR,1965,1960,1
+Garrincha,Brasilien,1960,1960,1
+Garrincha,Brasilien,1961,1960,1
+Garrincha,Brasilien,1962,1960,1
+Garrincha,Brasilien,1963,1960,1
+Garrincha,Brasilien,1964,1960,1
+Garrincha,Brasilien,1965,1960,1
+Garrincha,Brasilien,1966,1960,1
+Garrincha,Corinthians Sao Paulo,1966,1960,1
+Garrincha,Flamengo Rio de Janeiro,1968,1960,1
+Garrincha,Flamengo Rio de Janeiro,1969,1960,1
+Jairzinho,Botafogo FR,1960,1960,1
+Jairzinho,Botafogo FR,1961,1960,1
+Jairzinho,Botafogo FR,1962,1960,1
+Jairzinho,Botafogo FR,1963,1960,1
+Jairzinho,Botafogo FR,1964,1960,1
+Jairzinho,Botafogo FR,1965,1960,1
+Jairzinho,Botafogo FR,1966,1960,1
+Jairzinho,Botafogo FR,1967,1960,1
+Jairzinho,Botafogo FR,1968,1960,1
+Jairzinho,Botafogo FR,1969,1960,1
+Jairzinho,Brasilien,1964,1960,1
+Jairzinho,Brasilien,1965,1960,1
+Jairzinho,Brasilien,1966,1960,1
+Jairzinho,Brasilien,1967,1960,1
+Jairzinho,Brasilien,1968,1960,1
+Jairzinho,Brasilien,1969,1960,1
+Jaschin,Dynamo Moskau,1960,1960,1
+Jaschin,Dynamo Moskau,1961,1960,1
+Jaschin,Dynamo Moskau,1962,1960,1
+Jaschin,Dynamo Moskau,1963,1960,1
+Jaschin,Dynamo Moskau,1964,1960,1
+Jaschin,Dynamo Moskau,1965,1960,1
+Jaschin,Dynamo Moskau,1966,1960,1
+Jaschin,Dynamo Moskau,1967,1960,1
+Jaschin,Dynamo Moskau,1968,1960,1
+Jaschin,Dynamo Moskau,1969,1960,1
+Jaschin,Russland,1960,1960,1
+Jaschin,Russland,1961,1960,1
+Jaschin,Russland,1962,1960,1
+Jaschin,Russland,1963,1960,1
+Jaschin,Russland,1964,1960,1
+Jaschin,Russland,1965,1960,1
+Jaschin,Russland,1966,1960,1
+Jaschin,Russland,1967,1960,1
+Jaschin,Russland,1968,1960,1
+Jaschin,Russland,1969,1960,1
+Matthews,FC Blackpool,1960,1960,1
+Matthews,FC Blackpool,1961,1960,1
+Matthews,FC Port Vale,1965,1960,2
+Matthews,FC Port Vale,1966,1960,2
+Matthews,FC Port Vale,1967,1960,2
+Matthews,FC Port Vale,1968,1960,2
+Matthews,Stoke City,1961,1960,1
+Matthews,Stoke City,1962,1960,1
+Matthews,Stoke City,1963,1960,1
+Matthews,Stoke City,1964,1960,1
+Matthews,Stoke City,1965,1960,1
+Moore,England,1962,1960,1
+Moore,England,1963,1960,1
+Moore,England,1964,1960,1
+Moore,England,1965,1960,1
+Moore,England,1966,1960,1
+Moore,England,1967,1960,1
+Moore,England,1968,1960,1
+Moore,England,1969,1960,1
+Moore,West Ham United,1960,1960,1
+Moore,West Ham United,1961,1960,1
+Moore,West Ham United,1962,1960,1
+Moore,West Ham United,1963,1960,1
+Moore,West Ham United,1964,1960,1
+Moore,West Ham United,1965,1960,1
+Moore,West Ham United,1966,1960,1
+Moore,West Ham United,1967,1960,1
+Moore,West Ham United,1968,1960,1
+Moore,West Ham United,1969,1960,1
+Muller,Deutschland,1966,1960,1
+Muller,Deutschland,1967,1960,1
+Muller,Deutschland,1968,1960,1
+Muller,Deutschland,1969,1960,1
+Muller,FC Bayern Munchen,1964,1960,1
+Muller,FC Bayern Munchen,1965,1960,1
+Muller,FC Bayern Munchen,1966,1960,1
+Muller,FC Bayern Munchen,1966,1960,1
+Muller,FC Bayern Munchen,1967,1960,1
+Muller,FC Bayern Munchen,1968,1960,1
+Muller,FC Bayern Munchen,1969,1960,1
+Muller,TSV Nordlingen,1963,1960,1
+Muller,TSV Nordlingen,1964,1960,1
+Pele,Brasilien,1960,1960,1
+Pele,Brasilien,1961,1960,1
+Pele,Brasilien,1962,1960,1
+Pele,Brasilien,1963,1960,1
+Pele,Brasilien,1964,1960,1
+Pele,Brasilien,1965,1960,1
+Pele,Brasilien,1966,1960,1
+Pele,Brasilien,1967,1960,1
+Pele,Brasilien,1968,1960,1
+Pele,Brasilien,1969,1960,1
+Pele,FC Santos,1960,1960,1
+Pele,FC Santos,1961,1960,1
+Pele,FC Santos,1962,1960,1
+Pele,FC Santos,1963,1960,1
+Pele,FC Santos,1964,1960,1
+Pele,FC Santos,1965,1960,1
+Pele,FC Santos,1966,1960,1
+Pele,FC Santos,1967,1960,1
+Pele,FC Santos,1968,1960,1
+Pele,FC Santos,1969,1960,1
+Puskas,CD Alaves,1968,1960,2
+Puskas,CD Alaves,1969,1960,2
+Puskas,Hercules Alicante,1967,1960,2
+Puskas,Real Madrid,1960,1960,1
+Puskas,Real Madrid,1961,1960,1
+Puskas,Real Madrid,1962,1960,1
+Puskas,Real Madrid,1963,1960,1
+Puskas,Real Madrid,1964,1960,1
+Puskas,Real Madrid,1965,1960,1
+Puskas,Real Madrid,1966,1960,1
+Puskas,Spanien,1962,1960,1
+Puskas,Spanien,1961,1960,1
+Puskas,Vancouver Royals,1967,1960,2
+Puskas,Vancouver Royals,1968,1960,2
+Rivelino,Brasilien,1965,1960,1
+Rivelino,Brasilien,1966,1960,1
+Rivelino,Brasilien,1967,1960,1
+Rivelino,Brasilien,1968,1960,1
+Rivelino,Brasilien,1969,1960,1
+Rivelino,Corinthians Sao Paulo,1965,1960,1
+Rivelino,Corinthians Sao Paulo,1966,1960,1
+Rivelino,Corinthians Sao Paulo,1967,1960,1
+Rivelino,Corinthians Sao Paulo,1968,1960,1
+Rivelino,Corinthians Sao Paulo,1969,1960,1
+Stefano,Boca Juniors,1969,1960,2
+Stefano,Espanol Barcelona,1964,1960,1
+Stefano,Espanol Barcelona,1965,1960,1
+Stefano,Espanol Barcelona,1966,1960,1
+Stefano,FC Elche,1967,1960,2
+Stefano,Real Madrid,1960,1960,1
+Stefano,Real Madrid,1961,1960,1
+Stefano,Real Madrid,1962,1960,1
+Stefano,Real Madrid,1963,1960,1
+Stefano,Real Madrid,1964,1960,1
+Stefano,Spanien,1960,1960,1
+Stefano,Spanien,1961,1960,1
+Banks,England,1970,1970,1
+Banks,England,1971,1970,1
+Banks,England,1972,1970,1
+Banks,Fort Lauderdale Strikers,1977,1970,1
+Banks,Fort Lauderdale Strikers,1978,1970,1
+Banks,Hellenic FC,1971,1970,1
+Banks,St Patricks Athletic,1977,1970,1
+Banks,Stoke City,1970,1970,1
+Banks,Stoke City,1971,1970,1
+Banks,Stoke City,1972,1970,1
+Banks,Stoke City,1973,1970,1
+Banks,Telford United,1979,1970,2
+Baresi,AC Mailand,1978,1970,1
+Baresi,AC Mailand,1979,1970,1
+Beckenbauer,Deutschland,1970,1970,1
+Beckenbauer,Deutschland,1971,1970,1
+Beckenbauer,Deutschland,1972,1970,1
+Beckenbauer,Deutschland,1973,1970,1
+Beckenbauer,Deutschland,1974,1970,1
+Beckenbauer,Deutschland,1975,1970,1
+Beckenbauer,Deutschland,1976,1970,1
+Beckenbauer,Deutschland,1977,1970,1
+Beckenbauer,FC Bayern Munchen,1970,1970,1
+Beckenbauer,FC Bayern Munchen,1971,1970,1
+Beckenbauer,FC Bayern Munchen,1972,1970,1
+Beckenbauer,FC Bayern Munchen,1973,1970,1
+Beckenbauer,FC Bayern Munchen,1974,1970,1
+Beckenbauer,FC Bayern Munchen,1975,1970,1
+Beckenbauer,FC Bayern Munchen,1976,1970,1
+Beckenbauer,FC Bayern Munchen,1977,1970,1
+Beckenbauer,New York Cosmos,1977,1970,1
+Beckenbauer,New York Cosmos,1978,1970,1
+Beckenbauer,New York Cosmos,1979,1970,1
+Best,Cork Celtic,1975,1970,1
+Best,Cork Celtic,1976,1970,1
+Best,FC Fulham,1976,1970,1
+Best,FC Fulham,1977,1970,1
+Best,Fort Lauderdale Strikers,1979,1970,1
+Best,Hibernian Edinburgh,1979,1970,1
+Best,Los Angeles Aztecs,1976,1970,1
+Best,Los Angeles Aztecs,1977,1970,1
+Best,Los Angeles Aztecs,1978,1970,1
+Best,Manchester United,1970,1970,1
+Best,Manchester United,1971,1970,1
+Best,Manchester United,1972,1970,1
+Best,Manchester United,1973,1970,1
+Best,Manchester United,1974,1970,1
+Best,Nordirland,1970,1970,2
+Best,Nordirland,1971,1970,2
+Best,Nordirland,1972,1970,2
+Best,Nordirland,1973,1970,2
+Best,Nordirland,1974,1970,2
+Best,Nordirland,1975,1970,2
+Best,Nordirland,1976,1970,2
+Best,Nordirland,1977,1970,2
+Best,Nordirland,1978,1970,2
+Best,San Jose Earthquakes,1979,1970,1
+Best,Stockport County,1975,1970,1
+Charles,Hereford United,1970,1970,1
+Charles,Hereford United,1971,1970,1
+Charles,Hereford United,1970,1970,2
+Charles,Hereford United,1971,1970,2
+Charles,Merthyr Tydfil FC,1971,1970,1
+Charles,Merthyr Tydfil FC,1972,1970,1
+Charles,Merthyr Tydfil FC,1973,1970,1
+Charles,Merthyr Tydfil FC,1974,1970,1
+Charles,Merthyr Tydfil FC,1972,1970,2
+Charles,Merthyr Tydfil FC,1973,1970,2
+Charles,Merthyr Tydfil FC,1974,1970,2
+Charles,Swansea City,1974,1970,2
+Charles,Swansea City,1975,1970,2
+Charles,Swansea City,1976,1970,2
+Charlton,England,1970,1970,1
+Charlton,FC Waterford,1976,1970,1
+Charlton,Manchester United,1970,1970,1
+Charlton,Manchester United,1971,1970,1
+Charlton,Manchester United,1972,1970,1
+Charlton,Manchester United,1973,1970,1
+Charlton,Preston North End,1973,1970,1
+Charlton,Preston North End,1974,1970,1
+Charlton,Preston North End,1975,1970,1
+Charlton,Preston North End,1973,1970,2
+Charlton,Preston North End,1974,1970,2
+Charlton,Preston North End,1975,1970,2
+Cruyff,Ajax Amsterdam,1970,1970,1
+Cruyff,Ajax Amsterdam,1971,1970,1
+Cruyff,Ajax Amsterdam,1972,1970,1
+Cruyff,Ajax Amsterdam,1973,1970,1
+Cruyff,FC Barcelona,1973,1970,1
+Cruyff,FC Barcelona,1974,1970,1
+Cruyff,FC Barcelona,1975,1970,1
+Cruyff,FC Barcelona,1976,1970,1
+Cruyff,FC Barcelona,1977,1970,1
+Cruyff,FC Barcelona,1978,1970,1
+Cruyff,Los Angeles Aztecs,1979,1970,1
+Cruyff,Niederlande,1970,1970,1
+Cruyff,Niederlande,1971,1970,1
+Cruyff,Niederlande,1972,1970,1
+Cruyff,Niederlande,1973,1970,1
+Cruyff,Niederlande,1974,1970,1
+Cruyff,Niederlande,1975,1970,1
+Cruyff,Niederlande,1976,1970,1
+Cruyff,Niederlande,1977,1970,1
+Dalglish,Celtic Glasgow,1970,1970,1
+Dalglish,Celtic Glasgow,1971,1970,1
+Dalglish,Celtic Glasgow,1972,1970,1
+Dalglish,Celtic Glasgow,1973,1970,1
+Dalglish,Celtic Glasgow,1974,1970,1
+Dalglish,Celtic Glasgow,1975,1970,1
+Dalglish,Celtic Glasgow,1976,1970,1
+Dalglish,Celtic Glasgow,1977,1970,1
+Dalglish,FC Liverpool,1977,1970,1
+Dalglish,FC Liverpool,1978,1970,1
+Dalglish,FC Liverpool,1979,1970,1
+Dalglish,Schottland,1971,1970,1
+Dalglish,Schottland,1972,1970,1
+Dalglish,Schottland,1973,1970,1
+Dalglish,Schottland,1974,1970,1
+Dalglish,Schottland,1975,1970,1
+Dalglish,Schottland,1976,1970,1
+Dalglish,Schottland,1977,1970,1
+Dalglish,Schottland,1978,1970,1
+Dalglish,Schottland,1979,1970,1
+Didi,Al Ahli,1978,1970,2
+Didi,Al Ahli,1979,1970,2
+Didi,Cruzeiro Belo Horizonte,1977,1970,2
+Didi,Fenerbahce Istanbul,1972,1970,2
+Didi,Fenerbahce Istanbul,1973,1970,2
+Didi,Fenerbahce Istanbul,1974,1970,2
+Didi,Fenerbahce Istanbul,1975,1970,2
+Didi,Fluminense Rio de Janeiro,1975,1970,2
+Didi,Peru,1970,1970,2
+Didi,River Plate,1971,1970,2
+Eusebio,Benfica Lissabon,1970,1970,1
+Eusebio,Benfica Lissabon,1971,1970,1
+Eusebio,Benfica Lissabon,1972,1970,1
+Eusebio,Benfica Lissabon,1973,1970,1
+Eusebio,Benfica Lissabon,1974,1970,1
+Eusebio,Benfica Lissabon,1975,1970,1
+Eusebio,Boston Minutemen,1975,1970,1
+Eusebio,Buffalo Stallions,1979,1970,1
+Eusebio,CF Monterrey,1975,1970,1
+Eusebio,Las Vegas Quicksilvers,1976,1970,1
+Eusebio,Las Vegas Quicksilvers,1977,1970,1
+Eusebio,New Jersey Americans,1978,1970,1
+Eusebio,Portugal,1970,1970,1
+Eusebio,Portugal,1971,1970,1
+Eusebio,Portugal,1972,1970,1
+Eusebio,Portugal,1973,1970,1
+Eusebio,SC Beira Mar,1976,1970,1
+Eusebio,Torontos Metros Croatia,1975,1970,1
+Eusebio,Torontos Metros Croatia,1976,1970,1
+Eusebio,UFCI Tomar,1977,1970,1
+Eusebio,UFCI Tomar,1978,1970,1
+Garrincha,Olaria AC,1972,1970,1
+Gullit,HFC Harleem,1979,1970,1
+Jairzinho,Associacao Portuguesa de Desportos,1977,1970,1
+Jairzinho,Botafogo FR,1970,1970,1
+Jairzinho,Botafogo FR,1971,1970,1
+Jairzinho,Botafogo FR,1972,1970,1
+Jairzinho,Botafogo FR,1973,1970,1
+Jairzinho,Botafogo FR,1974,1970,1
+Jairzinho,Brasilien,1970,1970,1
+Jairzinho,Brasilien,1971,1970,1
+Jairzinho,Brasilien,1972,1970,1
+Jairzinho,Brasilien,1973,1970,1
+Jairzinho,Brasilien,1974,1970,1
+Jairzinho,Brasilien,1975,1970,1
+Jairzinho,Brasilien,1976,1970,1
+Jairzinho,Brasilien,1977,1970,1
+Jairzinho,Brasilien,1978,1970,1
+Jairzinho,Brasilien,1979,1970,1
+Jairzinho,Cruzeiro Belo Horizonte,1976,1970,1
+Jairzinho,EC Noroeste,1978,1970,1
+Jairzinho,EC Noroeste,1979,1970,1
+Jairzinho,National Fast Clube,1979,1970,1
+Jairzinho,Olympique Marseille,1974,1970,1
+Jairzinho,Olympique Marseille,1975,1970,1
+Jaschin,Dynamo Moskau,1970,1970,1
+Jaschin,Russland,1970,1970,1
+Lineker,Leicester City,1978,1970,1
+Lineker,Leicester City,1979,1970,1
+Maradona,Argentinien,1977,1970,1
+Maradona,Argentinien,1978,1970,1
+Maradona,Argentinien,1979,1970,1
+Maradona,Argentinos Juniors,1976,1970,1
+Maradona,Argentinos Juniors,1977,1970,1
+Maradona,Argentinos Juniors,1978,1970,1
+Maradona,Argentinos Juniors,1979,1970,1
+Matthaus,FC Herzogenaurach,1978,1970,1
+Matthaus,FC Herzogenaurach,1979,1970,1
+Matthaus,Borussia Monchengladbach,1979,1970,1
+Matthews,Hibernians Paola,1970,1970,2
+Moore,England,1970,1970,1
+Moore,England,1971,1970,1
+Moore,England,1972,1970,1
+Moore,England,1973,1970,1
+Moore,FC Fulham,1974,1970,1
+Moore,FC Fulham,1975,1970,1
+Moore,FC Fulham,1976,1970,1
+Moore,FC Fulham,1977,1970,1
+Moore,Herning Fremad,1978,1970,1
+Moore,San Antonio Thunder,1976,1970,1
+Moore,Seattle Sounders,1978,1970,1
+Moore,West Ham United,1970,1970,1
+Moore,West Ham United,1971,1970,1
+Moore,West Ham United,1972,1970,1
+Moore,West Ham United,1973,1970,1
+Moore,West Ham United,1974,1970,1
+Muller,Deutschland,1970,1970,1
+Muller,Deutschland,1971,1970,1
+Muller,Deutschland,1972,1970,1
+Muller,Deutschland,1973,1970,1
+Muller,Deutschland,1974,1970,1
+Muller,FC Bayern Munchen,1970,1970,1
+Muller,FC Bayern Munchen,1971,1970,1
+Muller,FC Bayern Munchen,1972,1970,1
+Muller,FC Bayern Munchen,1973,1970,1
+Muller,FC Bayern Munchen,1974,1970,1
+Muller,FC Bayern Munchen,1975,1970,1
+Muller,FC Bayern Munchen,1976,1970,1
+Muller,FC Bayern Munchen,1977,1970,1
+Muller,FC Bayern Munchen,1978,1970,1
+Muller,FC Bayern Munchen,1979,1970,1
+Muller,Fort Lauderdale Strikers,1979,1970,1
+Pele,Brasilien,1970,1970,1
+Pele,Brasilien,1971,1970,1
+Pele,FC Santos,1970,1970,1
+Pele,FC Santos,1971,1970,1
+Pele,FC Santos,1972,1970,1
+Pele,FC Santos,1973,1970,1
+Pele,FC Santos,1974,1970,1
+Pele,New York Cosmos,1975,1970,1
+Pele,New York Cosmos,1976,1970,1
+Pele,New York Cosmos,1977,1970,1
+Platini,AS Nancy,1972,1970,1
+Platini,AS Nancy,1973,1970,1
+Platini,AS Nancy,1974,1970,1
+Platini,AS Nancy,1975,1970,1
+Platini,AS Nancy,1976,1970,1
+Platini,AS Nancy,1977,1970,1
+Platini,AS Saint Etienne,1979,1970,1
+Platini,Frankreich,1976,1970,1
+Platini,Frankreich,1977,1970,1
+Platini,Frankreich,1978,1970,1
+Platini,Frankreich,1979,1970,1
+Puskas,AEK Athen,1978,1970,2
+Puskas,AEK Athen,1979,1970,2
+Puskas,Al Masry,1979,1970,2
+Puskas,CSD Colo Colo,1975,1970,2
+Puskas,CSD Colo Colo,1976,1970,2
+Puskas,Panathinaikos Athen,1970,1970,2
+Puskas,Panathinaikos Athen,1971,1970,2
+Puskas,Panathinaikos Athen,1972,1970,2
+Puskas,Panathinaikos Athen,1973,1970,2
+Puskas,Panathinaikos Athen,1974,1970,2
+Puskas,Real Murcia,1975,1970,2
+Puskas,Saudi Arabien,1976,1970,2
+Puskas,Saudi Arabien,1977,1970,2
+Rivelino,Al Hilal,1978,1970,1
+Rivelino,Al Hilal,1979,1970,1
+Rivelino,Brasilien,1970,1970,1
+Rivelino,Brasilien,1971,1970,1
+Rivelino,Brasilien,1972,1970,1
+Rivelino,Brasilien,1973,1970,1
+Rivelino,Brasilien,1974,1970,1
+Rivelino,Brasilien,1975,1970,1
+Rivelino,Brasilien,1976,1970,1
+Rivelino,Brasilien,1977,1970,1
+Rivelino,Brasilien,1978,1970,1
+Rivelino,Corinthians Sao Paulo,1970,1970,1
+Rivelino,Corinthians Sao Paulo,1971,1970,1
+Rivelino,Corinthians Sao Paulo,1972,1970,1
+Rivelino,Corinthians Sao Paulo,1973,1970,1
+Rivelino,Corinthians Sao Paulo,1974,1970,1
+Rivelino,Fluminense Rio de Janeiro,1974,1970,1
+Rivelino,Fluminense Rio de Janeiro,1975,1970,1
+Rivelino,Fluminense Rio de Janeiro,1976,1970,1
+Rivelino,Fluminense Rio de Janeiro,1977,1970,1
+Rivelino,Fluminense Rio de Janeiro,1978,1970,1
+Rummenigge,Deutschland,1976,1970,1
+Rummenigge,Deutschland,1977,1970,1
+Rummenigge,Deutschland,1978,1970,1
+Rummenigge,Deutschland,1979,1970,1
+Rummenigge,FC Bayern Munchen,1974,1970,1
+Rummenigge,FC Bayern Munchen,1975,1970,1
+Rummenigge,FC Bayern Munchen,1976,1970,1
+Rummenigge,FC Bayern Munchen,1977,1970,1
+Rummenigge,FC Bayern Munchen,1978,1970,1
+Rummenigge,FC Bayern Munchen,1979,1970,1
+Rush,Chester City,1978,1970,1
+Rush,Chester City,1979,1970,1
+Stefano,Boca Juniors,1970,1970,2
+Stefano,CD Castellon,1976,1970,2
+Stefano,CD Castellon,1977,1970,2
+Stefano,FC Valencia,1970,1970,2
+Stefano,FC Valencia,1971,1970,2
+Stefano,FC Valencia,1972,1970,2
+Stefano,FC Valencia,1973,1970,2
+Stefano,FC Valencia,1974,1970,2
+Stefano,FC Valencia,1979,1970,2
+Stefano,Rayo Vallecano,1975,1970,2
+Stefano,Rayo Vallecano,1976,1970,2
+Stefano,Sporting Lissabon,1974,1970,2
+Zico,Brasilien,1976,1970,1
+Zico,Brasilien,1977,1970,1
+Zico,Brasilien,1978,1970,1
+Zico,Brasilien,1979,1970,1
+Zico,Flamengo Rio de Janeiro,1971,1970,1
+Zico,Flamengo Rio de Janeiro,1972,1970,1
+Zico,Flamengo Rio de Janeiro,1973,1970,1
+Zico,Flamengo Rio de Janeiro,1974,1970,1
+Zico,Flamengo Rio de Janeiro,1975,1970,1
+Zico,Flamengo Rio de Janeiro,1976,1970,1
+Zico,Flamengo Rio de Janeiro,1977,1970,1
+Zico,Flamengo Rio de Janeiro,1978,1970,1
+Zico,Flamengo Rio de Janeiro,1979,1970,1
+Baggio,AC Florenz,1985,1980,1
+Baggio,AC Florenz,1986,1980,1
+Baggio,AC Florenz,1987,1980,1
+Baggio,AC Florenz,1988,1980,1
+Baggio,AC Florenz,1989,1980,1
+Baggio,Italien,1988,1980,1
+Baggio,Italien,1989,1980,1
+Baggio,LR Vicenza,1982,1980,1
+Baggio,LR Vicenza,1983,1980,1
+Baggio,LR Vicenza,1984,1980,1
+Baggio,LR Vicenza,1985,1980,1
+Banks,Telford United,1980,1980,2
+Baresi,AC Mailand,1980,1980,1
+Baresi,AC Mailand,1981,1980,1
+Baresi,AC Mailand,1882,1980,1
+Baresi,AC Mailand,1883,1980,1
+Baresi,AC Mailand,1984,1980,1
+Baresi,AC Mailand,1985,1980,1
+Baresi,AC Mailand,1986,1980,1
+Baresi,AC Mailand,1987,1980,1
+Baresi,AC Mailand,1989,1980,1
+Baresi,Italien,1982,1980,1
+Baresi,Italien,1983,1980,1
+Baresi,Italien,1984,1980,1
+Baresi,Italien,1985,1980,1
+Baresi,Italien,1986,1980,1
+Baresi,Italien,1987,1980,1
+Baresi,Italien,1988,1980,1
+Baresi,Italien,1989,1980,1
+Basten,AC Mailand,1987,1980,1
+Basten,AC Mailand,1988,1980,1
+Basten,AC Mailand,1989,1980,1
+Basten,Ajax Amsterdam,1981,1980,1
+Basten,Ajax Amsterdam,1982,1980,1
+Basten,Ajax Amsterdam,1983,1980,1
+Basten,Ajax Amsterdam,1984,1980,1
+Basten,Ajax Amsterdam,1985,1980,1
+Basten,Ajax Amsterdam,1986,1980,1
+Basten,Ajax Amsterdam,1987,1980,1
+Basten,Niederlande,1983,1980,1
+Basten,Niederlande,1984,1980,1
+Basten,Niederlande,1985,1980,1
+Basten,Niederlande,1986,1980,1
+Basten,Niederlande,1987,1980,1
+Basten,Niederlande,1988,1980,1
+Basten,Niederlande,1989,1980,1
+Basten,Niederlande,1981,1980,1
+Batistuta,Newells Old Boys,1988,1980,1
+Batistuta,Newells Old Boys,1989,1980,1
+Batistuta,River Plate,1989,1980,1
+Beckenbauer,Deutschland,1984,1980,2
+Beckenbauer,Deutschland,1985,1980,2
+Beckenbauer,Deutschland,1986,1980,2
+Beckenbauer,Deutschland,1987,1980,2
+Beckenbauer,Deutschland,1988,1980,2
+Beckenbauer,Deutschland,1989,1980,2
+Beckenbauer,Hamburger SV,1980,1980,1
+Beckenbauer,Hamburger SV,1981,1980,1
+Beckenbauer,Hamburger SV,1982,1980,1
+Beckenbauer,New York Cosmos,1980,1980,1
+Beckenbauer,New York Cosmos,1983,1980,1
+Bergkamp,Ajax Amsterdam,1986,1980,1
+Bergkamp,Ajax Amsterdam,1987,1980,1
+Bergkamp,Ajax Amsterdam,1988,1980,1
+Bergkamp,Ajax Amsterdam,1989,1980,1
+Best,AFC Bournemouth,1983,1980,1
+Best,Brisbane Lions,1983,1980,1
+Best,Fort Lauderdale Strikers,1980,1980,1
+Best,Hibernian Edinburgh,1980,1980,1
+Best,San Jose Earthquakes,1980,1980,1
+Best,San Jose Earthquakes,1981,1980,1
+Best,Tobermore United,1984,1980,1
+Cantona,AJ Auxerre,1983,1980,1
+Cantona,AJ Auxerre,1984,1980,1
+Cantona,AJ Auxerre,1985,1980,1
+Cantona,AJ Auxerre,1986,1980,1
+Cantona,AJ Auxerre,1987,1980,1
+Cantona,AJ Auxerre,1988,1980,1
+Cantona,FC Martigues,1985,1980,1
+Cantona,FC Martigues,1986,1980,1
+Cantona,Frankreich,1987,1980,1
+Cantona,Frankreich,1988,1980,1
+Cantona,Frankreich,1989,1980,1
+Cantona,Girondins Bordeaux,1989,1980,1
+Cantona,HSC Montpellier,1989,1980,1
+Cantona,Olympique Marseille,1988,1980,1
+Cantona,Olympique Marseille,1989,1980,1
+Charles,Hamilton Steelers,1987,1980,2
+Charlton,Wigan Athletic,1983,1980,2
+Cruyff,Ajax Amsterdam,1981,1980,1
+Cruyff,Ajax Amsterdam,1982,1980,1
+Cruyff,Ajax Amsterdam,1983,1980,1
+Cruyff,Ajax Amsterdam,1985,1980,2
+Cruyff,Ajax Amsterdam,1986,1980,2
+Cruyff,Ajax Amsterdam,1987,1980,2
+Cruyff,Ajax Amsterdam,1988,1980,2
+Cruyff,Ajax Amsterdam,1988,1980,2
+Cruyff,Ajax Amsterdam,1989,1980,2
+Cruyff,Feyenoord Rotterdam,1983,1980,1
+Cruyff,Feyenoord Rotterdam,1984,1980,1
+Cruyff,UD Levante,1981,1980,1
+Cruyff,Washington Diplomats,1980,1980,1
+Cruyff,Washington Diplomats,1981,1980,1
+Dalglish,FC Liverpool,1980,1980,1
+Dalglish,FC Liverpool,1981,1980,1
+Dalglish,FC Liverpool,1982,1980,1
+Dalglish,FC Liverpool,1983,1980,1
+Dalglish,FC Liverpool,1984,1980,1
+Dalglish,FC Liverpool,1985,1980,1
+Dalglish,FC Liverpool,1986,1980,1
+Dalglish,FC Liverpool,1987,1980,1
+Dalglish,FC Liverpool,1988,1980,1
+Dalglish,FC Liverpool,1989,1980,1
+Dalglish,FC Liverpool,1986,1980,2
+Dalglish,FC Liverpool,1987,1980,2
+Dalglish,FC Liverpool,1988,1980,2
+Dalglish,FC Liverpool,1989,1980,2
+Dalglish,Schottland,1980,1980,1
+Dalglish,Schottland,1981,1980,1
+Dalglish,Schottland,1982,1980,1
+Dalglish,Schottland,1983,1980,1
+Dalglish,Schottland,1984,1980,1
+Dalglish,Schottland,1985,1980,1
+Dalglish,Schottland,1986,1980,1
+Didi,Al Ahli,1980,1980,2
+Didi,Al Ahli,1981,1980,2
+Didi,Alianza Lima,1986,1980,2
+Didi,Bangu AC,1989,1980,2
+Didi,Cruzeiro Belo Horizonte,1981,1980,2
+Didi,FC Sao Paulo,1986,1980,2
+Didi,Fortaleza EC,1985,1980,2
+Eusebio,Buffalo Stallions,1980,1980,1
+Gullit,AC Mailand,1987,1980,1
+Gullit,AC Mailand,1988,1980,1
+Gullit,AC Mailand,1989,1980,1
+Gullit,Feyenoord Rotterdam,1982,1980,1
+Gullit,Feyenoord Rotterdam,1983,1980,1
+Gullit,Feyenoord Rotterdam,1984,1980,1
+Gullit,Feyenoord Rotterdam,1985,1980,1
+Gullit,HFC Harleem,1980,1980,1
+Gullit,HFC Harleem,1981,1980,1
+Gullit,HFC Harleem,1982,1980,1
+Gullit,Niederlande,1981,1980,1
+Gullit,Niederlande,1982,1980,1
+Gullit,Niederlande,1983,1980,1
+Gullit,Niederlande,1984,1980,1
+Gullit,Niederlande,1985,1980,1
+Gullit,Niederlande,1986,1980,1
+Gullit,Niederlande,1987,1980,1
+Gullit,Niederlande,1988,1980,1
+Gullit,Niederlande,1989,1980,1
+Gullit,PSV Eindhoven,1985,1980,1
+Gullit,PSV Eindhoven,1986,1980,1
+Gullit,PSV Eindhoven,1987,1980,1
+Hagi,FC Constanta,1982,1980,1
+Hagi,FC Constanta,1983,1980,1
+Hagi,Rumanien,1983,1980,1
+Hagi,Rumanien,1984,1980,1
+Hagi,Rumanien,1985,1980,1
+Hagi,Rumanien,1986,1980,1
+Hagi,Rumanien,1987,1980,1
+Hagi,Rumanien,1988,1980,1
+Hagi,Rumanien,1989,1980,1
+Hagi,Sportul Studentesc,1983,1980,1
+Hagi,Sportul Studentesc,1984,1980,1
+Hagi,Sportul Studentesc,1985,1980,1
+Hagi,Sportul Studentesc,1986,1980,1
+Hagi,Sportul Studentesc,1987,1980,1
+Hagi,Steaua Bukarest,1987,1980,1
+Hagi,Steaua Bukarest,1988,1980,1
+Hagi,Steaua Bukarest,1989,1980,1
+Jairzinho,Botafogo FR,1981,1980,1
+Jairzinho,Botafogo FR,1982,1980,1
+Jairzinho,Brasilien,1980,1980,1
+Jairzinho,Brasilien,1981,1980,1
+Jairzinho,Brasilien,1982,1980,1
+Jairzinho,Club nueve de Octubre,1982,1980,1
+Jairzinho,Club Jorge Wilstermann,1980,1980,1
+Jairzinho,Club Jorge Wilstermann,1981,1980,1
+Klinsmann,Deutschland,1987,1980,1
+Klinsmann,Deutschland,1988,1980,1
+Klinsmann,Deutschland,1989,1980,1
+Klinsmann,Inter Mailand,1989,1980,1
+Klinsmann,Stuttgarter Kickers,1981,1980,1
+Klinsmann,Stuttgarter Kickers,1982,1980,1
+Klinsmann,Stuttgarter Kickers,1983,1980,1
+Klinsmann,Stuttgarter Kickers,1984,1980,1
+Klinsmann,VfB Stuttgart,1984,1980,1
+Klinsmann,VfB Stuttgart,1985,1980,1
+Klinsmann,VfB Stuttgart,1986,1980,1
+Klinsmann,VfB Stuttgart,1987,1980,1
+Klinsmann,VfB Stuttgart,1988,1980,1
+Klinsmann,VfB Stuttgart,1989,1980,1
+Lineker,England,1984,1980,1
+Lineker,England,1985,1980,1
+Lineker,England,1986,1980,1
+Lineker,England,1987,1980,1
+Lineker,England,1988,1980,1
+Lineker,England,1989,1980,1
+Lineker,FC Barcelona,1986,1980,1
+Lineker,FC Barcelona,1987,1980,1
+Lineker,FC Barcelona,1988,1980,1
+Lineker,FC Barcelona,1989,1980,1
+Lineker,FC Everton,1985,1980,1
+Lineker,FC Everton,1986,1980,1
+Lineker,Leicester City,1980,1980,1
+Lineker,Leicester City,1981,1980,1
+Lineker,Leicester City,1982,1980,1
+Lineker,Leicester City,1983,1980,1
+Lineker,Leicester City,1984,1980,1
+Lineker,Leicester City,1985,1980,1
+Lineker,Tottenham Hotspur,1989,1980,1
+Maldini,AC Mailand,1985,1980,1
+Maldini,AC Mailand,1986,1980,1
+Maldini,AC Mailand,1987,1980,1
+Maldini,AC Mailand,1988,1980,1
+Maldini,AC Mailand,1989,1980,1
+Maldini,Italien,1988,1980,1
+Maldini,Italien,1989,1980,1
+Maradona,Argentinien,1980,1980,1
+Maradona,Argentinien,1981,1980,1
+Maradona,Argentinien,1982,1980,1
+Maradona,Argentinien,1983,1980,1
+Maradona,Argentinien,1984,1980,1
+Maradona,Argentinien,1985,1980,1
+Maradona,Argentinien,1986,1980,1
+Maradona,Argentinien,1987,1980,1
+Maradona,Argentinien,1988,1980,1
+Maradona,Argentinien,1989,1980,1
+Maradona,Argentinos Juniors,1980,1980,1
+Maradona,Argentinos Juniors,1981,1980,1
+Maradona,Boca Juniors,1981,1980,1
+Maradona,Boca Juniors,1982,1980,1
+Maradona,FC Barcelona,1982,1980,1
+Maradona,FC Barcelona,1983,1980,1
+Maradona,FC Barcelona,1984,1980,1
+Maradona,SSC Neapel,1984,1980,1
+Maradona,SSC Neapel,1985,1980,1
+Maradona,SSC Neapel,1986,1980,1
+Maradona,SSC Neapel,1987,1980,1
+Maradona,SSC Neapel,1988,1980,1
+Maradona,SSC Neapel,1989,1980,1
+Matthaus,Borussia Monchengladbach,1980,1980,1
+Matthaus,Borussia Monchengladbach,1981,1980,1
+Matthaus,Borussia Monchengladbach,1982,1980,1
+Matthaus,Borussia Monchengladbach,1983,1980,1
+Matthaus,Borussia Monchengladbach,1984,1980,1
+Matthaus,Deutschland,1980,1980,1
+Matthaus,Deutschland,1981,1980,1
+Matthaus,Deutschland,1982,1980,1
+Matthaus,Deutschland,1983,1980,1
+Matthaus,Deutschland,1984,1980,1
+Matthaus,Deutschland,1985,1980,1
+Matthaus,Deutschland,1986,1980,1
+Matthaus,Deutschland,1987,1980,1
+Matthaus,Deutschland,1988,1980,1
+Matthaus,Deutschland,1989,1980,1
+Matthaus,FC Bayern Munchen,1984,1980,1
+Matthaus,FC Bayern Munchen,1985,1980,1
+Matthaus,FC Bayern Munchen,1986,1980,1
+Matthaus,FC Bayern Munchen,1987,1980,1
+Matthaus,FC Bayern Munchen,1988,1980,1
+Matthaus,Inter Mailand,1988,1980,1
+Matthaus,Inter Mailand,1989,1980,1
+Moore,Carolina Lightnin,1983,1980,1
+Moore,Eastern AA,1981,1980,2
+Moore,Eastern AA,1982,1980,2
+Moore,Oxford City,1980,1980,2
+Moore,Southend United,1984,1980,2
+Moore,Southend United,1985,1980,2
+Moore,Southend United,1986,1980,2
+Muller,Fort Lauderdale Strikers,1980,1980,1
+Muller,Fort Lauderdale Strikers,1981,1980,1
+Muller,German American Soccer Club,1982,1980,1
+Muller,German American Soccer Club,1983,1980,1
+Muller,German American Soccer Club,1984,1980,1
+Muller,Smith Brothers Lounge,1981,1980,1
+Muller,Smith Brothers Lounge,1982,1980,1
+Platini,AS Saint Etienne,1980,1980,1
+Platini,AS Saint Etienne,1981,1980,1
+Platini,AS Saint Etienne,1982,1980,1
+Platini,Frankreich,1980,1980,1
+Platini,Frankreich,1981,1980,1
+Platini,Frankreich,1982,1980,1
+Platini,Frankreich,1983,1980,1
+Platini,Frankreich,1984,1980,1
+Platini,Frankreich,1985,1980,1
+Platini,Frankreich,1986,1980,1
+Platini,Frankreich,1987,1980,1
+Platini,Frankreich,1988,1980,2
+Platini,Frankreich,1989,1980,2
+Platini,Juventus Turin,1982,1980,1
+Platini,Juventus Turin,1983,1980,1
+Platini,Juventus Turin,1984,1980,1
+Platini,Juventus Turin,1985,1980,1
+Platini,Juventus Turin,1986,1980,1
+Platini,Juventus Turin,1987,1980,1
+Platini,Kuwait,1988,1980,1
+Puskas,Al Masry,1980,1980,2
+Puskas,Al Masry,1981,1980,2
+Puskas,Al Masry,1982,1980,2
+Puskas,Club Cerro Porteno,1986,1980,2
+Puskas,Club Sol de America,1985,1980,2
+Puskas,Club Sol de America,1986,1980,2
+Puskas,South Melbourne Hellas,1989,1980,2
+Rivelino,Al Hilal,1980,1980,1
+Rivelino,Al Hilal,1981,1980,1
+Romario,Brasilien,1987,1980,1
+Romario,Brasilien,1988,1980,1
+Romario,Brasilien,1989,1980,1
+Romario,CR Vasco da Gama,1985,1980,1
+Romario,CR Vasco da Gama,1986,1980,1
+Romario,CR Vasco da Gama,1987,1980,1
+Romario,CR Vasco da Gama,1988,1980,1
+Romario,PSV Eindhoven,1988,1980,1
+Romario,PSV Eindhoven,1989,1980,1
+Rummenigge,Deutschland,1980,1980,1
+Rummenigge,Deutschland,1981,1980,1
+Rummenigge,Deutschland,1982,1980,1
+Rummenigge,Deutschland,1983,1980,1
+Rummenigge,Deutschland,1984,1980,1
+Rummenigge,Deutschland,1985,1980,1
+Rummenigge,Deutschland,1986,1980,1
+Rummenigge,FC Bayern Munchen,1980,1980,1
+Rummenigge,FC Bayern Munchen,1981,1980,1
+Rummenigge,FC Bayern Munchen,1982,1980,1
+Rummenigge,FC Bayern Munchen,1983,1980,1
+Rummenigge,FC Bayern Munchen,1984,1980,1
+Rummenigge,Inter Mailand,1984,1980,1
+Rummenigge,Inter Mailand,1985,1980,1
+Rummenigge,Inter Mailand,1986,1980,1
+Rummenigge,Inter Mailand,1987,1980,1
+Rummenigge,Servette Genf,1987,1980,1
+Rummenigge,Servette Genf,1988,1980,1
+Rummenigge,Servette Genf,1989,1980,1
+Rush,Chester City,1980,1980,1
+Rush,FC Liverpool,1980,1980,1
+Rush,FC Liverpool,1981,1980,1
+Rush,FC Liverpool,1982,1980,1
+Rush,FC Liverpool,1983,1980,1
+Rush,FC Liverpool,1984,1980,1
+Rush,FC Liverpool,1985,1980,1
+Rush,FC Liverpool,1986,1980,1
+Rush,FC Liverpool,1987,1980,1
+Rush,FC Liverpool,1988,1980,1
+Rush,FC Liverpool,1989,1980,1
+Rush,Juventus Turin,1987,1980,1
+Rush,Juventus Turin,1988,1980,1
+Rush,Wales,1980,1980,1
+Rush,Wales,1981,1980,1
+Rush,Wales,1982,1980,1
+Rush,Wales,1983,1980,1
+Rush,Wales,1984,1980,1
+Rush,Wales,1985,1980,1
+Rush,Wales,1986,1980,1
+Rush,Wales,1987,1980,1
+Rush,Wales,1988,1980,1
+Rush,Wales,1989,1980,1
+Stefano,Boca Juniors,1985,1980,2
+Stefano,FC Valencia,1980,1980,2
+Stefano,FC Valencia,1986,1980,2
+Stefano,FC Valencia,1987,1980,2
+Stefano,FC Valencia,1988,1980,2
+Stefano,Real Madrid,1982,1980,2
+Stefano,Real Madrid,1983,1980,2
+Stefano,Real Madrid,1984,1980,2
+Stefano,River Plate,1982,1980,2
+Stefano,River Plate,1981,1980,2
+Zico,Brasilien,1980,1980,1
+Zico,Brasilien,1981,1980,1
+Zico,Brasilien,1982,1980,1
+Zico,Brasilien,1983,1980,1
+Zico,Brasilien,1984,1980,1
+Zico,Brasilien,1985,1980,1
+Zico,Brasilien,1986,1980,1
+Zico,Flamengo Rio de Janeiro,1980,1980,1
+Zico,Flamengo Rio de Janeiro,1981,1980,1
+Zico,Flamengo Rio de Janeiro,1982,1980,1
+Zico,Flamengo Rio de Janeiro,1983,1980,1
+Zico,Flamengo Rio de Janeiro,1985,1980,1
+Zico,Flamengo Rio de Janeiro,1986,1980,1
+Zico,Flamengo Rio de Janeiro,1987,1980,1
+Zico,Flamengo Rio de Janeiro,1988,1980,1
+Zico,Flamengo Rio de Janeiro,1989,1980,1
+Zico,Udinese Calcio,1983,1980,1
+Zico,Udinese Calcio,1984,1980,1
+Zico,Udinese Calcio,1985,1980,1
+Zidane,AS Cannes,1988,1980,1
+Zidane,AS Cannes,1989,1980,1
+Baggio,AC Florenz,1990,1990,1
+Baggio,AC Mailand,1995,1990,1
+Baggio,AC Mailand,1996,1990,1
+Baggio,AC Mailand,1997,1990,1
+Baggio,FC Bologna,1997,1990,1
+Baggio,FC Bologna,1998,1990,1
+Baggio,Inter Mailand,1998,1990,1
+Baggio,Inter Mailand,1999,1990,1
+Baggio,Italien,1990,1990,1
+Baggio,Italien,1991,1990,1
+Baggio,Italien,1992,1990,1
+Baggio,Italien,1993,1990,1
+Baggio,Italien,1994,1990,1
+Baggio,Italien,1995,1990,1
+Baggio,Italien,1996,1990,1
+Baggio,Italien,1997,1990,1
+Baggio,Italien,1998,1990,1
+Baggio,Italien,1999,1990,1
+Baggio,Juventus Turin,1990,1990,1
+Baggio,Juventus Turin,1991,1990,1
+Baggio,Juventus Turin,1992,1990,1
+Baggio,Juventus Turin,1993,1990,1
+Baggio,Juventus Turin,1994,1990,1
+Baggio,Juventus Turin,1995,1990,1
+Baresi,AC Mailand,1990,1990,1
+Baresi,AC Mailand,1991,1990,1
+Baresi,AC Mailand,1992,1990,1
+Baresi,AC Mailand,1993,1990,1
+Baresi,AC Mailand,1994,1990,1
+Baresi,AC Mailand,1995,1990,1
+Baresi,AC Mailand,1996,1990,1
+Baresi,AC Mailand,1997,1990,1
+Baresi,Italien,1990,1990,1
+Baresi,Italien,1991,1990,1
+Baresi,Italien,1992,1990,1
+Baresi,Italien,1993,1990,1
+Baresi,Italien,1994,1990,1
+Basten,AC Mailand,1990,1990,1
+Basten,AC Mailand,1991,1990,1
+Basten,AC Mailand,1992,1990,1
+Basten,AC Mailand,1993,1990,1
+Basten,AC Mailand,1994,1990,1
+Basten,AC Mailand,1995,1990,1
+Basten,Niederlande,1990,1990,1
+Basten,Niederlande,1991,1990,1
+Basten,Niederlande,1992,1990,1
+Batistuta,AC Florenz,1991,1990,1
+Batistuta,AC Florenz,1992,1990,1
+Batistuta,AC Florenz,1993,1990,1
+Batistuta,AC Florenz,1994,1990,1
+Batistuta,AC Florenz,1995,1990,1
+Batistuta,AC Florenz,1996,1990,1
+Batistuta,AC Florenz,1997,1990,1
+Batistuta,AC Florenz,1998,1990,1
+Batistuta,AC Florenz,1999,1990,1
+Batistuta,Argentinien,1991,1990,1
+Batistuta,Argentinien,1992,1990,1
+Batistuta,Argentinien,1993,1990,1
+Batistuta,Argentinien,1994,1990,1
+Batistuta,Argentinien,1995,1990,1
+Batistuta,Argentinien,1996,1990,1
+Batistuta,Argentinien,1997,1990,1
+Batistuta,Argentinien,1998,1990,1
+Batistuta,Argentinien,1999,1990,1
+Batistuta,Boca Juniors,1990,1990,1
+Batistuta,Boca Juniors,1991,1990,1
+Batistuta,River Plate,1990,1990,1
+Beckenbauer,Deutschland,1990,1990,2
+Bergkamp,Ajax Amsterdam,1990,1990,1
+Bergkamp,Ajax Amsterdam,1991,1990,1
+Bergkamp,Ajax Amsterdam,1992,1990,1
+Bergkamp,Ajax Amsterdam,1993,1990,1
+Bergkamp,FC Arsenal,1995,1990,1
+Bergkamp,FC Arsenal,1996,1990,1
+Bergkamp,FC Arsenal,1997,1990,1
+Bergkamp,FC Arsenal,1998,1990,1
+Bergkamp,FC Arsenal,1999,1990,1
+Bergkamp,Inter Mailand,1993,1990,1
+Bergkamp,Inter Mailand,1994,1990,1
+Bergkamp,Inter Mailand,1995,1990,1
+Bergkamp,Niederlande,1990,1990,1
+Bergkamp,Niederlande,1991,1990,1
+Bergkamp,Niederlande,1992,1990,1
+Bergkamp,Niederlande,1993,1990,1
+Bergkamp,Niederlande,1994,1990,1
+Bergkamp,Niederlande,1995,1990,1
+Bergkamp,Niederlande,1996,1990,1
+Bergkamp,Niederlande,1997,1990,1
+Bergkamp,Niederlande,1998,1990,1
+Bergkamp,Niederlande,1999,1990,1
+Cantona,Frankreich,1990,1990,1
+Cantona,Frankreich,1991,1990,1
+Cantona,Frankreich,1992,1990,1
+Cantona,Frankreich,1993,1990,1
+Cantona,Frankreich,1994,1990,1
+Cantona,Frankreich,1995,1990,1
+Cantona,HSC Montpellier,1990,1990,1
+Cantona,Leeds United,1992,1990,1
+Cantona,Manchester United,1992,1990,1
+Cantona,Manchester United,1993,1990,1
+Cantona,Manchester United,1994,1990,1
+Cantona,Manchester United,1995,1990,1
+Cantona,Manchester United,1996,1990,1
+Cantona,Manchester United,1997,1990,1
+Cantona,Olympique Marseille,1990,1990,1
+Cantona,Olympique Marseille,1991,1990,1
+Cantona,Olympique Nimes,1991,1990,1
+Cruyff,Ajax Amsterdam,1990,1990,2
+Cruyff,Ajax Amsterdam,1991,1990,2
+Cruyff,FC Barcelona,1992,1990,2
+Cruyff,FC Barcelona,1994,1990,2
+Cruyff,FC Barcelona,1995,1990,2
+Cruyff,FC Barcelona,1996,1990,2
+Dalglish,Blackburn Rovers,1991,1990,2
+Dalglish,Blackburn Rovers,1992,1990,2
+Dalglish,Blackburn Rovers,1993,1990,2
+Dalglish,Blackburn Rovers,1994,1990,2
+Dalglish,Blackburn Rovers,1995,1990,2
+Dalglish,Celtic Glasgow,1999,1990,2
+Dalglish,FC Liverpool,1990,1990,1
+Dalglish,FC Liverpool,1990,1990,2
+Dalglish,FC Liverpool,1991,1990,2
+Dalglish,Newcastle United,1997,1990,2
+Dalglish,Newcastle United,1998,1990,2
+Didi,Bangu AC,1990,1990,2
+Gullit,AC Mailand,1990,1990,1
+Gullit,AC Mailand,1991,1990,1
+Gullit,AC Mailand,1992,1990,1
+Gullit,AC Mailand,1993,1990,1
+Gullit,AC Mailand,1994,1990,1
+Gullit,FC Chelsea,1995,1990,1
+Gullit,FC Chelsea,1996,1990,1
+Gullit,FC Chelsea,1997,1990,1
+Gullit,FC Chelsea,1998,1990,1
+Gullit,FC Chelsea,1996,1990,2
+Gullit,FC Chelsea,1997,1990,2
+Gullit,FC Chelsea,1998,1990,2
+Gullit,Newcastle United,1998,1990,2
+Gullit,Newcastle United,1999,1990,2
+Gullit,Niederlande,1990,1990,1
+Gullit,Niederlande,1991,1990,1
+Gullit,Niederlande,1992,1990,1
+Gullit,Niederlande,1993,1990,1
+Gullit,Niederlande,1994,1990,1
+Gullit,Sampdoria Genua,1993,1990,1
+Gullit,Sampdoria Genua,1994,1990,1
+Gullit,Sampdoria Genua,1995,1990,1
+Hagi,Brescia Calcio,1992,1990,1
+Hagi,Brescia Calcio,1993,1990,1
+Hagi,Brescia Calcio,1994,1990,1
+Hagi,FC Barcelona,1994,1990,1
+Hagi,FC Barcelona,1995,1990,1
+Hagi,FC Barcelona,1996,1990,1
+Hagi,Galatasaray Istanbul,1996,1990,1
+Hagi,Galatasaray Istanbul,1997,1990,1
+Hagi,Galatasaray Istanbul,1998,1990,1
+Hagi,Galatasaray Istanbul,1999,1990,1
+Hagi,Real Madrid,1990,1990,1
+Hagi,Real Madrid,1991,1990,1
+Hagi,Real Madrid,1992,1990,1
+Hagi,Rumanien,1990,1990,1
+Hagi,Rumanien,1991,1990,1
+Hagi,Rumanien,1992,1990,1
+Hagi,Rumanien,1993,1990,1
+Hagi,Rumanien,1994,1990,1
+Hagi,Rumanien,1995,1990,1
+Hagi,Rumanien,1996,1990,1
+Hagi,Rumanien,1997,1990,1
+Hagi,Rumanien,1998,1990,1
+Hagi,Rumanien,1999,1990,1
+Hagi,Steaua Bukarest,1990,1990,1
+Klinsmann,AS Monaco,1992,1990,1
+Klinsmann,AS Monaco,1993,1990,1
+Klinsmann,AS Monaco,1994,1990,1
+Klinsmann,Deutschland,1990,1990,1
+Klinsmann,Deutschland,1991,1990,1
+Klinsmann,Deutschland,1992,1990,1
+Klinsmann,Deutschland,1993,1990,1
+Klinsmann,Deutschland,1994,1990,1
+Klinsmann,Deutschland,1995,1990,1
+Klinsmann,Deutschland,1996,1990,1
+Klinsmann,Deutschland,1997,1990,1
+Klinsmann,Deutschland,1998,1990,1
+Klinsmann,FC Bayern Munchen,1995,1990,1
+Klinsmann,FC Bayern Munchen,1996,1990,1
+Klinsmann,FC Bayern Munchen,1997,1990,1
+Klinsmann,Inter Mailand,1990,1990,1
+Klinsmann,Inter Mailand,1991,1990,1
+Klinsmann,Inter Mailand,1992,1990,1
+Klinsmann,Sampdoria Genua,1997,1990,1
+Klinsmann,Sampdoria Genua,1998,1990,1
+Klinsmann,Tottenham Hotspur,1994,1990,1
+Klinsmann,Tottenham Hotspur,1995,1990,1
+Klinsmann,Tottenham Hotspur,1998,1990,1
+Lineker,England,1990,1990,1
+Lineker,England,1991,1990,1
+Lineker,England,1992,1990,1
+Lineker,Nagoya Grampus Eight,1992,1990,1
+Lineker,Nagoya Grampus Eight,1993,1990,1
+Lineker,Nagoya Grampus Eight,1994,1990,1
+Lineker,Tottenham Hotspur,1990,1990,1
+Lineker,Tottenham Hotspur,1991,1990,1
+Lineker,Tottenham Hotspur,1992,1990,1
+Maldini,AC Mailand,1990,1990,1
+Maldini,AC Mailand,1991,1990,1
+Maldini,AC Mailand,1992,1990,1
+Maldini,AC Mailand,1993,1990,1
+Maldini,AC Mailand,1994,1990,1
+Maldini,AC Mailand,1995,1990,1
+Maldini,AC Mailand,1996,1990,1
+Maldini,AC Mailand,1997,1990,1
+Maldini,AC Mailand,1998,1990,1
+Maldini,AC Mailand,1999,1990,1
+Maldini,Italien,1990,1990,1
+Maldini,Italien,1991,1990,1
+Maldini,Italien,1992,1990,1
+Maldini,Italien,1993,1990,1
+Maldini,Italien,1994,1990,1
+Maldini,Italien,1995,1990,1
+Maldini,Italien,1996,1990,1
+Maldini,Italien,1997,1990,1
+Maldini,Italien,1998,1990,1
+Maldini,Italien,1999,1990,1
+Maradona,Argentinien,1990,1990,1
+Maradona,Argentinien,1991,1990,1
+Maradona,Argentinien,1992,1990,1
+Maradona,Argentinien,1993,1990,1
+Maradona,Argentinien,1994,1990,1
+Maradona,Boca Juniors,1995,1990,1
+Maradona,Boca Juniors,1996,1990,1
+Maradona,Boca Juniors,1997,1990,1
+Maradona,FC Sevilla,1992,1990,1
+Maradona,FC Sevilla,1993,1990,1
+Maradona,Newells Old Boys,1993,1990,1
+Maradona,SSC Neapel,1990,1990,1
+Maradona,SSC Neapel,1991,1990,1
+Matthaus,Deutschland,1990,1990,1
+Matthaus,Deutschland,1991,1990,1
+Matthaus,Deutschland,1992,1990,1
+Matthaus,Deutschland,1993,1990,1
+Matthaus,Deutschland,1994,1990,1
+Matthaus,Deutschland,1995,1990,1
+Matthaus,Deutschland,1996,1990,1
+Matthaus,Deutschland,1997,1990,1
+Matthaus,Deutschland,1998,1990,1
+Matthaus,Deutschland,1999,1990,1
+Matthaus,FC Bayern Munchen,1992,1990,1
+Matthaus,FC Bayern Munchen,1993,1990,1
+Matthaus,FC Bayern Munchen,1994,1990,1
+Matthaus,FC Bayern Munchen,1995,1990,1
+Matthaus,FC Bayern Munchen,1996,1990,1
+Matthaus,FC Bayern Munchen,1997,1990,1
+Matthaus,FC Bayern Munchen,1998,1990,1
+Matthaus,FC Bayern Munchen,1999,1990,1
+Matthaus,Inter Mailand,1990,1990,1
+Matthaus,Inter Mailand,1991,1990,1
+Matthaus,Inter Mailand,1992,1990,1
+Platini,Frankreich,1990,1990,2
+Platini,Frankreich,1991,1990,2
+Platini,Frankreich,1992,1990,2
+Puskas,South Melbourne Hellas,1990,1990,2
+Puskas,South Melbourne Hellas,1991,1990,2
+Puskas,South Melbourne Hellas,1992,1990,2
+Puskas,Ungarn,1993,1990,2
+Rivelino,Shimizu S Pulse,1994,1990,2
+Romario,Brasilien,1990,1990,1
+Romario,Brasilien,1991,1990,1
+Romario,Brasilien,1992,1990,1
+Romario,Brasilien,1993,1990,1
+Romario,Brasilien,1994,1990,1
+Romario,Brasilien,1995,1990,1
+Romario,Brasilien,1996,1990,1
+Romario,Brasilien,1997,1990,1
+Romario,Brasilien,1998,1990,1
+Romario,Brasilien,1999,1990,1
+Romario,CR Vasco da Gama,1999,1990,1
+Romario,FC Barcelona,1993,1990,1
+Romario,FC Barcelona,1994,1990,1
+Romario,FC Barcelona,1995,1990,1
+Romario,FC Valencia,1996,1990,1
+Romario,FC Valencia,1997,1990,1
+Romario,Flamengo Rio de Janeiro,1995,1990,1
+Romario,Flamengo Rio de Janeiro,1996,1990,1
+Romario,Flamengo Rio de Janeiro,1997,1990,1
+Romario,Flamengo Rio de Janeiro,1998,1990,1
+Romario,Flamengo Rio de Janeiro,1999,1990,1
+Romario,PSV Eindhoven,1990,1990,1
+Romario,PSV Eindhoven,1991,1990,1
+Romario,PSV Eindhoven,1992,1990,1
+Romario,PSV Eindhoven,1993,1990,1
+Ronaldo,Brasilien,1994,1990,1
+Ronaldo,Brasilien,1995,1990,1
+Ronaldo,Brasilien,1996,1990,1
+Ronaldo,Brasilien,1997,1990,1
+Ronaldo,Brasilien,1998,1990,1
+Ronaldo,Brasilien,1999,1990,1
+Ronaldo,Cruzeiro Belo Horizonte,1993,1990,1
+Ronaldo,Cruzeiro Belo Horizonte,1994,1990,1
+Ronaldo,FC Barcelona,1996,1990,1
+Ronaldo,FC Barcelona,1997,1990,1
+Ronaldo,Inter Mailand,1997,1990,1
+Ronaldo,Inter Mailand,1998,1990,1
+Ronaldo,Inter Mailand,1999,1990,1
+Ronaldo,PSV Eindhoven,1995,1990,1
+Ronaldo,PSV Eindhoven,1995,1990,1
+Ronaldo,PSV Eindhoven,1996,1990,1
+Rush,FC Liverpool,1990,1990,1
+Rush,FC Liverpool,1991,1990,1
+Rush,FC Liverpool,1992,1990,1
+Rush,FC Liverpool,1993,1990,1
+Rush,FC Liverpool,1994,1990,1
+Rush,FC Liverpool,1995,1990,1
+Rush,FC Liverpool,1996,1990,1
+Rush,FC Wrexham,1998,1990,1
+Rush,FC Wrexham,1999,1990,1
+Rush,Leeds United,1996,1990,1
+Rush,Leeds United,1997,1990,1
+Rush,Newcastle United,1997,1990,1
+Rush,Newcastle United,1998,1990,1
+Rush,Sheffield United,1998,1990,1
+Rush,Sydney Olympic,1999,1990,1
+Rush,Wales,1990,1990,1
+Rush,Wales,1991,1990,1
+Rush,Wales,1992,1990,1
+Rush,Wales,1993,1990,1
+Rush,Wales,1994,1990,1
+Rush,Wales,1995,1990,1
+Rush,Wales,1996,1990,1
+Stefano,Real Madrid,1990,1990,2
+Stefano,Real Madrid,1991,1990,2
+Zico,Kashima Antlers,1991,1990,1
+Zico,Kashima Antlers,1992,1990,1
+Zico,Kashima Antlers,1993,1990,1
+Zico,Kashima Antlers,1994,1990,1
+Zidane,AS Cannes,1990,1990,1
+Zidane,AS Cannes,1991,1990,1
+Zidane,AS Cannes,1992,1990,1
+Zidane,Frankreich,1994,1990,1
+Zidane,Frankreich,1995,1990,1
+Zidane,Frankreich,1996,1990,1
+Zidane,Frankreich,1997,1990,1
+Zidane,Frankreich,1998,1990,1
+Zidane,Frankreich,1999,1990,1
+Zidane,Girondins Bordeaux,1992,1990,1
+Zidane,Girondins Bordeaux,1993,1990,1
+Zidane,Girondins Bordeaux,1994,1990,1
+Zidane,Girondins Bordeaux,1995,1990,1
+Zidane,Girondins Bordeaux,1996,1990,1
+Zidane,Juventus Turin,1996,1990,1
+Zidane,Juventus Turin,1997,1990,1
+Zidane,Juventus Turin,1998,1990,1
+Zidane,Juventus Turin,1999,1990,1
